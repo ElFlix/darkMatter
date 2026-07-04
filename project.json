@@ -1195,9 +1195,9 @@
                 "index": "3b"
             },
             "encounter_number": "7",
-            "project_number": "20",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "7b2ad99b-9090-4fb6-9881-f019ceab8399"
+            "id": "7b2ad99b-9090-4fb6-9881-f019ceab8399",
+            "project_number": "20"
         },
         {
             "name": "Virtueller Zugangsschl\u00fcssel",
@@ -1236,13 +1236,13 @@
                 "text": "<for> Nachdem du den <name> betreten hast: Lege eine <wil>-Probe (2) ab. Falls die Probe misslingt, nimmst du 1 Horror.",
                 "flavor_text": "Als du durch die T\u00fcr trittst, siehst du dutzende verst\u00fcmmelte und zerfleischte Leichen. Auf den Boden hat jemand mit Blut die Worte \u201ekeine Hoffnung\u201c gekritzelt.",
                 "illustration": "./images/edited_images/cargo - Jason Courtney.jpg",
-                "clues": "1<per>",
+                "clues": "1",
                 "shroud": "2",
                 "connection": "square",
                 "connections": [
                     "circle",
                     "hourglass",
-                    "moon"
+                    "crescent"
                 ],
                 "illustrator": "Illus. Jason Courtney",
                 "illustration_pan_x": -60.0,
@@ -1391,7 +1391,7 @@
                 "connection": "cross",
                 "connections": [
                     "circle",
-                    "doubleslash"
+                    "double_slash"
                 ],
                 "illustrator": "Illus. Ann Manly",
                 "illustration_pan_x": -500.0,
@@ -1522,8 +1522,11 @@
                 "illustration_scale": 2.32
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/Scanning - Cybervirus.png"
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
+                "connections": [
+                    "clover"
+                ]
             },
             "encounter_number": "16",
             "project_number": "29",
@@ -1556,7 +1559,7 @@
                 "illustration": "./images/scanningBack.png",
                 "connections": [
                     "square",
-                    "moon"
+                    "crescent"
                 ]
             },
             "encounter_number": "17",
@@ -1595,14 +1598,14 @@
                 "text": "<rev> F\u00fcge Carcosas Erbin deinem Deck hinzu.\nDauerhaft.\nWenn die Ermittler w\u00e4hrend der Aufl\u00f6sung eines Szenarios Siegpunkte verdienen, verdient der Ermittler mit den wenigsten seelischen Traumata 1 zus\u00e4tzlichen Erfahrungspunkt f\u00fcr jedes seelische Trauma, das er hat. (Bei Gleichstand w\u00e4hlst du einen jener Ermittler aus.)",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/language - unknown.jpg",
-                "classes": [
-                    "weakness"
-                ],
                 "name": "<unique><name>",
                 "illustration_scale": 1.12,
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": 236.0,
-                "level": "None"
+                "level": "None",
+                "classes": [
+                    "story weakness"
+                ]
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1657,7 +1660,9 @@
                 "illustration": "./images/603802f42316f5542ca2608ed8552f8d.jpg",
                 "illustrator": "Illus. GG-arts",
                 "attack": "2",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_scale": 1.78,
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "fullart_scanning",
@@ -1713,7 +1718,6 @@
                 "illustrator": "Illus. Frankie Perez",
                 "attack": "3",
                 "name": "<unique><name>",
-                "illustration_pan_x": -42.0,
                 "illustration_pan_y": 881.0
             },
             "back": {
@@ -1737,7 +1741,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. Medizin. Wissenschaft.",
-                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\nAnwendungen (3 Vorr\u00e4te).\n<reaction> Nachdem einer Ermittlerkarte an deinem Ort eine beliebige Menge Schaden zugewiesen wurde, gib 1 Vorrat aus und ersch\u00f6pfe das <name>: Heile so viel Schaden von jener Ermittlerkarte, wie ihr gerade zugewiesen wurde.",
+                "text": "Anwendungen (3 Vorr\u00e4te).\n<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<reaction> Nachdem einer Ermittlerkarte an deinem Ort eine beliebige Menge Schaden zugewiesen wurde, gib 1 Vorrat aus und ersch\u00f6pfe das <name>: Heile so viel Schaden von jener Ermittlerkarte, wie ihr gerade zugewiesen wurde.",
                 "slot": "1 Hand",
                 "flavor_text": "",
                 "classes": [
@@ -1800,7 +1804,7 @@
             "front": {
                 "type": "asset",
                 "traits": "Gegenstand. Medizin. Wissenschaft.",
-                "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\nAnwendungen (3 Vorr\u00e4te).\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
+                "text": "Anwendungen (3 Vorr\u00e4te).\n<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
                 "flavor_text": "",
                 "classes": [
                     "story"
@@ -1868,11 +1872,13 @@
                 "illustration_pan_y": -60.0
             },
             "back": {
-                "type": "encounter",
-                "illustration": "./images/0_",
+                "type": "fullart_scanning",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "circle",
+                    "cross"
+                ]
             },
             "encounter_number": "28",
             "project_number": "41",
@@ -1892,7 +1898,7 @@
                 "copyright": " ",
                 "text": "\n\n\n\n",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "hourglass"
                 ]
             },
@@ -2557,7 +2563,7 @@
                 "title": "<unique><name>",
                 "subtitle": "25% funktionsf\u00e4hig",
                 "traits": "KI.",
-                "text": "<reaction> Zu Beginn der Runde: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-<br>F\u00e4higkeiten verwendet werden kann.",
+                "text": "Dauerhaft.\n<reaction> Zu Beginn der Runde: W\u00e4hle einen Ermittler. Der gew\u00e4hlte Ermittler darf in seinem Zug in dieser Runde eine zus\u00e4tzliche Aktion nehmen, die nur f\u00fcr <b>Scannen</b>-<br>F\u00e4higkeiten verwendet werden kann.",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "name": "<unique><name>",
@@ -9174,7 +9180,10 @@
                 "level": "None",
                 "icons": "QQ",
                 "illustration": "./images/specialRelativity.png",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
@@ -9407,7 +9416,7 @@
                 "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "connections": [
-                    "moon",
+                    "crescent",
                     "clover",
                     "hourglass"
                 ]
@@ -10277,5 +10286,8 @@
     "meta": {
         "dirty": []
     },
-    "icon": "./images/Dark Matter.png"
+    "icon": "./images/Dark Matter.png",
+    "translations": {
+        "fr": "project_fr.json"
+    }
 }
