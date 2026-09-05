@@ -10333,7 +10333,7 @@
             "id": "80778fce-43f6-4d22-8010-a2e1045c6bdc",
             "amount": 3,
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "attack": "1",
                 "health": "1",
                 "evade": "1",
@@ -10344,7 +10344,9 @@
                 "illustrator": "Illus. Bill Thompson",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png",
                 "collection_number": "159",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">"
+                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": 89.0
             },
             "back": {
                 "type": "encounter"
@@ -10467,7 +10469,7 @@
             "name": "Beast of Aldebaran",
             "id": "45bf004e-199d-457d-be78-9b6b453b6671",
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "traits": "Monster. Elite.",
                 "text": "<size 36>Gewaltig.\nSolange Schaden und Horror durch den Angriff der Bestie von Aldebaran zugewiesen wird, musst du so viel Schaden und Horror wie m\u00f6glich einer einzigen Karte zuweisen, bevor du einer anderen Karte Schaden und Horror zuweisen kannst.",
                 "attack": "3",
@@ -10480,7 +10482,9 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus.  Chun Lo",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/carcosa.svg\">",
-                "collection_number": "88"
+                "collection_number": "88",
+                "illustration_pan_x": 59.0,
+                "illustration_pan_y": 279.0
             },
             "back": {
                 "type": "encounter"
@@ -10493,7 +10497,7 @@
             "name": "Spawn of Hali",
             "id": "f44ae850-4e88-4214-ab8d-fa51df433895",
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "traits": "Monster.",
                 "text": "<size 40><prey> Meister Horror.\nZur\u00fcckschlagen.\n<for> Nachdem du Brut von Hali erfolgreich um 2 oder weniger entkommen bist: Nimm 1 Horror.",
                 "attack": "4",
@@ -10504,7 +10508,9 @@
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_3.png",
                 "illustrator": "Illus.  Sedone Thongvilay",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/carcosa.svg\">",
-                "collection_number": "89"
+                "collection_number": "89",
+                "illustration_pan_x": -13.0,
+                "illustration_pan_y": 266.0
             },
             "back": {
                 "type": "encounter"
@@ -10518,7 +10524,7 @@
             "id": "f704b376-2a03-4893-aedc-75a9ddeb9069",
             "amount": 2,
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "attack": "4",
                 "health": "4",
                 "evade": "3",
@@ -10530,7 +10536,9 @@
                 "illustrator": "Illus. Chun Lo",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">",
-                "collection_number": "177"
+                "collection_number": "177",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": 533.0
             },
             "back": {
                 "type": "encounter"
@@ -10567,7 +10575,7 @@
             "id": "fdc52c25-fbf0-437b-a46d-bc152aaeb6d3",
             "amount": 1,
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "subtitle": "Bote von Aldebaran",
                 "traits": "Monster. Elite.",
                 "attack": "4",
@@ -10578,12 +10586,13 @@
                 "text": "<prey> Niedrigster <willpower>-Wert.\nGewaltig. J\u00e4ger. Zur\u00fcckschlagen.\n<for> Am Ende der Gegnerphase: Jeder Ermittler am Ort des K\u00f6niglichen Sendboten oder einem verbundenen Ort nimmt 1 Horror.",
                 "illustration": "./images/Replacements Carcosa and Core/ahc11-060 Royal Emissary - Sam Lamont.jpg",
                 "illustrator": "Illus. Sam Lamont",
-                "illustration_pan_x": -590.0,
+                "illustration_pan_x": -548.0,
                 "illustration_scale": 1.2,
                 "name": "<unique><name>",
                 "collection_total": "20/20",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
-                "collection_number": "60"
+                "collection_number": "60",
+                "illustration_pan_y": 630.0
             },
             "back": {
                 "type": "encounter"
@@ -10702,7 +10711,9 @@
     ],
     "id": "31e30d69-db33-4e31-9759-85c573332b18",
     "meta": {
-        "dirty": []
+        "dirty": [],
+        "auto_hyphenate": false,
+        "french_punctuation": true
     },
     "icon": "./images/Dark Matter.png",
     "translations": {
