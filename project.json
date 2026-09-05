@@ -545,7 +545,7 @@
         },
         {
             "name": "15-Future Technology",
-            "icon": "./images/science.png",
+            "icon": "./images/flask.png",
             "cards": [],
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
             "meta": {
@@ -556,7 +556,7 @@
         },
         {
             "name": "16-Discoveries in Space",
-            "icon": "./images/telescope.png",
+            "icon": "C:/Users/jbalota/Downloads/return_to_curtain_call (1).svg",
             "cards": [],
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
             "meta": {
@@ -718,7 +718,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-2",
-            "project_number": 268,
+            "project_number": "268",
             "encounter_set": "9b4b5918-b5ce-449a-907f-59d21f9527fa",
             "id": "99f73b33-db6d-4b2d-b548-1f57e4916ec2",
             "amount": 2
@@ -740,7 +740,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-2",
-            "project_number": 278,
+            "project_number": "278",
             "encounter_set": "1652fe8f-adea-440c-b803-041012e776f9",
             "id": "854595db-dc94-4a2c-9d29-30c4bf9fbeb2",
             "amount": 2
@@ -762,8 +762,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4",
-            "project_number": 280,
+            "encounter_number": "3",
+            "project_number": "279",
             "encounter_set": "1652fe8f-adea-440c-b803-041012e776f9",
             "id": "1ad27210-5d38-4f4c-9ba8-ad08cda792d2"
         },
@@ -784,8 +784,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5",
-            "project_number": 281,
+            "encounter_number": "4",
+            "project_number": "280",
             "encounter_set": "1652fe8f-adea-440c-b803-041012e776f9",
             "id": "534b3e81-c9a8-481e-8cb8-dc54d100b971"
         },
@@ -806,8 +806,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3",
-            "project_number": 279,
+            "encounter_number": "5",
+            "project_number": "281",
             "encounter_set": "1652fe8f-adea-440c-b803-041012e776f9",
             "id": "eec16db5-8021-4191-a743-12dda3729107"
         },
@@ -848,8 +848,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "8",
-            "project_number": 286,
+            "encounter_number": "1",
+            "project_number": "282",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
             "id": "a086c068-59d8-4491-bf99-14951b6878f0"
         },
@@ -869,8 +869,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1",
-            "project_number": 282,
+            "encounter_number": "2",
+            "project_number": "283",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
             "id": "648205e3-5b44-4b92-9fec-f55964baefa5"
         },
@@ -889,8 +889,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2-3",
-            "project_number": 283,
+            "encounter_number": "3-4",
+            "project_number": "284",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
             "id": "2dbb9537-a1e9-48d9-b568-e1323576d5c9",
             "amount": 2
@@ -910,8 +910,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4-5",
-            "project_number": 284,
+            "encounter_number": "5-6",
+            "project_number": "285",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
             "id": "1966b427-d8ff-46ac-a2b9-b6e7f83c7117",
             "amount": 2
@@ -932,8 +932,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6-7",
-            "project_number": 285,
+            "encounter_number": "7-8",
+            "project_number": "286",
             "encounter_set": "9ffe2e63-acc1-48c9-ad12-6fe41489a87c",
             "id": "34a1682d-8565-491c-9f1d-14ec239a7e47",
             "amount": 2
@@ -953,8 +953,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4-5",
-            "project_number": 288,
+            "encounter_number": "1-2",
+            "project_number": "287",
             "encounter_set": "e262f9fc-6ea1-4f35-b745-3c895e76d1b7",
             "id": "e645a746-7b5e-4597-90c9-6e9a5c417f88",
             "amount": 2
@@ -975,8 +975,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1-3",
-            "project_number": 287,
+            "encounter_number": "3-5",
+            "project_number": "288",
             "encounter_set": "e262f9fc-6ea1-4f35-b745-3c895e76d1b7",
             "id": "7ef19021-a78b-453c-8bf3-b0f6cd6f35cf",
             "amount": 3
@@ -1034,7 +1034,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 1,
+            "project_number": "1",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "b85506e1-4d69-4c5b-881e-a50638683f10"
         },
@@ -1065,7 +1065,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "2",
-            "project_number": 2,
+            "project_number": "2",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "b7561fde-3efd-4125-9572-3d030c65f8cc"
         },
@@ -1106,7 +1106,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "3",
-            "project_number": 3,
+            "project_number": "3",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "1eb814c7-1536-4e4b-89f0-30e70b461ebb"
         },
@@ -1132,7 +1132,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "project_number": 4,
+            "project_number": "4",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "4ab7e57f-62cf-4969-ba71-59209190b907"
         },
@@ -1157,7 +1157,7 @@
                 "index": "1b"
             },
             "encounter_number": "5",
-            "project_number": 5,
+            "project_number": "5",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "1657cf6c-093a-4dd9-a59b-12d98e5b7e73"
         },
@@ -1182,7 +1182,7 @@
                 "index": "2b"
             },
             "encounter_number": "6",
-            "project_number": 6,
+            "project_number": "6",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "68b1a168-d4f1-4044-8b65-9444bc8a51ca"
         },
@@ -1212,7 +1212,7 @@
             "encounter_number": "7",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "7b2ad99b-9090-4fb6-9881-f019ceab8399",
-            "project_number": 7
+            "project_number": "7"
         },
         {
             "name": "Virtual Access Key",
@@ -1238,10 +1238,11 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "40",
-            "project_number": 35,
+            "encounter_number": "15",
+            "project_number": "15",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "0d8c96d4-1c94-4dd5-82dd-2415c404cac6"
+            "id": "0d8c96d4-1c94-4dd5-82dd-2415c404cac6",
+            "enumerated": "manual"
         },
         {
             "name": "Cargo Hold",
@@ -1277,7 +1278,7 @@
                 "illustration_scale": 1.16
             },
             "encounter_number": "9",
-            "project_number": 9,
+            "project_number": "9",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "04080dd8-5b12-45c4-ab88-04d7ed6041a7"
         },
@@ -1352,10 +1353,11 @@
                 "illustration_pan_x": -250.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "10",
-            "project_number": 10,
+            "encounter_number": "12",
+            "project_number": "12",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "c806ece3-0b74-4395-abdd-078716a43eca"
+            "id": "c806ece3-0b74-4395-abdd-078716a43eca",
+            "enumerated": "manual"
         },
         {
             "name": "Escape Pod Bay",
@@ -1389,10 +1391,11 @@
                 "illustration_pan_x": -250.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "11",
-            "project_number": 11,
+            "encounter_number": "14",
+            "project_number": "14",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "e355ba88-e0c4-4195-bf02-954c1a318650"
+            "id": "e355ba88-e0c4-4195-bf02-954c1a318650",
+            "enumerated": "manual"
         },
         {
             "name": "Infirmary",
@@ -1427,10 +1430,11 @@
                 "illustration_pan_x": -250.0,
                 "illustration_pan_y": 180.0
             },
-            "encounter_number": "12",
-            "project_number": 12,
+            "encounter_number": "13",
+            "project_number": "13",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "af4bb4f6-b78e-48a8-9bc7-68c981c3baa8"
+            "id": "af4bb4f6-b78e-48a8-9bc7-68c981c3baa8",
+            "enumerated": "manual"
         },
         {
             "name": "Mess Hall",
@@ -1473,10 +1477,11 @@
                 "illustration_pan_x": -250.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "13",
-            "project_number": 13,
+            "encounter_number": "14",
+            "project_number": "11",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "a87a12f1-33d8-4278-8008-ddf6868c2115"
+            "id": "a87a12f1-33d8-4278-8008-ddf6868c2115",
+            "enumerated": "manual"
         },
         {
             "name": "Ship's Bridge",
@@ -1512,10 +1517,11 @@
                 "illustration_pan_y": 180.0,
                 "illustration_pan_x": -250.0
             },
-            "encounter_number": "14",
-            "project_number": 14,
+            "encounter_number": "10",
+            "project_number": "10",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "63b02114-65c5-4591-b871-985f23167090"
+            "id": "63b02114-65c5-4591-b871-985f23167090",
+            "enumerated": "manual"
         },
         {
             "name": "Cybervirus",
@@ -1543,8 +1549,8 @@
                     "clover"
                 ]
             },
-            "encounter_number": "15",
-            "project_number": "15",
+            "encounter_number": "16",
+            "project_number": "16",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "2e02123a-636f-4d38-99dd-d3abc5ea623a",
             "enumerated": "manual"
@@ -1579,8 +1585,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "16",
-            "project_number": "16",
+            "encounter_number": "17",
+            "project_number": "17",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "27a21aa1-a9c4-4e4a-9a00-12596958b93a",
             "enumerated": "manual"
@@ -1602,8 +1608,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "17",
-            "project_number": "17",
+            "encounter_number": "18",
+            "project_number": "18",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "339f64de-8f89-44eb-b44c-3c65e81c81d6",
             "enumerated": "manual"
@@ -1637,8 +1643,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "18",
-            "project_number": "18",
+            "encounter_number": "19",
+            "project_number": "19",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "9f2b42b3-ec64-4639-93a3-aff2e52e25c4",
             "enumerated": "manual"
@@ -1661,9 +1667,10 @@
                 "collection_number": ""
             },
             "encounter_number": "20",
-            "project_number": 20,
+            "project_number": "20",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "ed1e7595-27db-4c01-9c86-57ff179cb62d"
+            "id": "ed1e7595-27db-4c01-9c86-57ff179cb62d",
+            "enumerated": "manual"
         },
         {
             "name": "JV-7 'Hyades'",
@@ -1697,10 +1704,11 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "35",
-            "project_number": 30,
+            "encounter_number": "21",
+            "project_number": "21",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "9730b57e-d666-4135-8206-889841a5b11f"
+            "id": "9730b57e-d666-4135-8206-889841a5b11f",
+            "enumerated": "manual"
         },
         {
             "name": "K2-PS187 Cybernetic Brains",
@@ -1720,10 +1728,11 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "21",
-            "project_number": 21,
+            "encounter_number": "22",
+            "project_number": "22",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "c57b247d-a3fd-43f9-a3aa-fd23a191f92d"
+            "id": "c57b247d-a3fd-43f9-a3aa-fd23a191f92d",
+            "enumerated": "manual"
         },
         {
             "name": "LR-02 'Hali'",
@@ -1757,10 +1766,11 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "36",
-            "project_number": 31,
+            "encounter_number": "23",
+            "project_number": "23",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
-            "id": "685d5002-96dd-43ea-99c8-c6c8f8a8ad64"
+            "id": "685d5002-96dd-43ea-99c8-c6c8f8a8ad64",
+            "enumerated": "manual"
         },
         {
             "name": "Medical Foam",
@@ -1793,8 +1803,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "37",
-            "project_number": 32,
+            "encounter_number": "24",
+            "project_number": "24",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "ab7cd3e1-0a09-49b9-a5e2-e9f5e19f3873"
         },
@@ -1825,8 +1835,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "38",
-            "project_number": 33,
+            "encounter_number": "25",
+            "project_number": "25",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "c720e04a-72d3-491a-a901-f5e98bf99f49"
         },
@@ -1857,8 +1867,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "39",
-            "project_number": 34,
+            "encounter_number": "26",
+            "project_number": "26",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "ca9ef222-173f-4feb-9ca2-dd368230f89d"
         },
@@ -1879,8 +1889,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "22",
-            "project_number": 22,
+            "encounter_number": "27",
+            "project_number": "27",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "2c335ca4-8640-45eb-84d5-9f1d21d23e82"
         },
@@ -1913,8 +1923,8 @@
                     "cross"
                 ]
             },
-            "encounter_number": "19",
-            "project_number": 19,
+            "encounter_number": "28",
+            "project_number": "28",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "2f8d710f-5102-4f04-b3e5-ef757053ecff"
         },
@@ -1936,8 +1946,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "23",
-            "project_number": 23,
+            "encounter_number": "29",
+            "project_number": "29",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "fb7ef4c4-22a8-491e-9194-c2b19dd11171"
         },
@@ -1958,8 +1968,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "24",
-            "project_number": 24,
+            "encounter_number": "30",
+            "project_number": "30",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "a52e37aa-d60d-49e3-b512-e9cfabfdda7e"
         },
@@ -1979,8 +1989,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "25-26",
-            "project_number": 25,
+            "encounter_number": "31-32",
+            "project_number": "31",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "de758b88-4e1c-4a7e-9ae3-35908b80740d",
             "amount": 2
@@ -2000,8 +2010,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "27-28",
-            "project_number": 26,
+            "encounter_number": "33-34",
+            "project_number": "32",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "3e19a352-a71c-4fa9-a7e0-d7911db533bf",
             "amount": 2
@@ -2022,8 +2032,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "29-30",
-            "project_number": 27,
+            "encounter_number": "35-36",
+            "project_number": "33",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "f69152ef-2b0d-4d13-b419-4e56b0af7c84",
             "amount": 2
@@ -2043,8 +2053,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "31-32",
-            "project_number": 28,
+            "encounter_number": "37-38",
+            "project_number": "34",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "00611aac-7426-4bba-878a-9e0d0d62ce05",
             "amount": 2
@@ -2064,8 +2074,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-34",
-            "project_number": 29,
+            "encounter_number": "39-40",
+            "project_number": "35",
             "encounter_set": "c3a780a7-66fc-4b38-b354-373c34c78b65",
             "id": "4f2c9b3d-aa24-4333-81f4-d16fad37ad41",
             "amount": 2
@@ -2086,8 +2096,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1-3",
-            "project_number": 269,
+            "encounter_number": "4-6",
+            "project_number": "269",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "21235b47-c5e4-44dd-99e4-3f777f7a07b9",
             "amount": 3
@@ -2108,8 +2118,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4-5",
-            "project_number": 270,
+            "encounter_number": "7-8",
+            "project_number": "270",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "10fec7f7-10f9-4e49-812f-15f9c1066beb",
             "amount": 2
@@ -2130,8 +2140,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6-7",
-            "project_number": 271,
+            "encounter_number": "9-10",
+            "project_number": "271",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "25e07e17-7653-42e2-8209-e2e497dd2c98",
             "amount": 2
@@ -2152,8 +2162,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "8-9",
-            "project_number": 272,
+            "encounter_number": "11-12",
+            "project_number": "272",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "2ba11b43-5f45-4deb-bfb5-c8f57fd565c5",
             "amount": 2
@@ -2180,8 +2190,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "10-12",
-            "project_number": 273,
+            "encounter_number": "1-3",
+            "project_number": "273",
             "encounter_set": "b69ef0b1-85ab-4a2a-9112-49abc03ea938",
             "id": "8ca9af5f-bfcb-4464-b3d2-353527379722",
             "amount": 3
@@ -2239,7 +2249,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 36,
+            "project_number": "36",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "55f9c2f2-efff-4304-af14-8838416f1541"
         },
@@ -2264,7 +2274,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "project_number": 37,
+            "project_number": "37",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "636e27a5-2260-483c-a4e8-ceea93393700"
         },
@@ -2286,7 +2296,7 @@
                 "text": "<center><font \"./fonts/Bonechiller.ttf\">\nWhat took     you so long?\nNow we       can play forever      and ever \nand        ever.\nEach                    remaining\ninvestigator          is      defeated. \n"
             },
             "encounter_number": "3",
-            "project_number": 38,
+            "project_number": "38",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "a81fdde5-b4b0-4586-9014-fdccf18ae6f9"
         },
@@ -2312,7 +2322,7 @@
                 "index": "1b"
             },
             "encounter_number": "4",
-            "project_number": 39,
+            "project_number": "39",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "d6dd0081-1fc1-4405-8c39-1be4f18cc48d"
         },
@@ -2339,7 +2349,7 @@
                 "index": "1b"
             },
             "encounter_number": "5",
-            "project_number": 40,
+            "project_number": "40",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "8517d65a-d573-439b-9751-5d8b356289ec"
         },
@@ -2366,7 +2376,7 @@
                 "index": "1b"
             },
             "encounter_number": "6",
-            "project_number": 41,
+            "project_number": "41",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "8f7de1e5-0764-4677-8fa7-d6320724b398"
         },
@@ -2393,7 +2403,7 @@
                 "index": "2b"
             },
             "encounter_number": "7",
-            "project_number": 42,
+            "project_number": "42",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "ca78fea5-d41f-42a9-ad6d-f68f8da81950"
         },
@@ -2420,7 +2430,7 @@
                 "index": "3b"
             },
             "encounter_number": "8",
-            "project_number": 43,
+            "project_number": "43",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "3b88496a-aa26-45a6-9b99-e1151477e689"
         },
@@ -2445,8 +2455,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "42",
-            "project_number": 66,
+            "encounter_number": "16",
+            "project_number": "51",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "4eebcf4b-01e4-43cc-aff2-0a0b5fa2338d"
         },
@@ -2476,8 +2486,8 @@
                 "level": "None",
                 "illustration_pan_y": -50.0
             },
-            "encounter_number": "36",
-            "project_number": 60,
+            "encounter_number": "25",
+            "project_number": "57",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "ed3ece81-8630-4b9e-97a6-c9fdb5638411"
         },
@@ -2506,8 +2516,8 @@
                     "neutral"
                 ]
             },
-            "encounter_number": "37",
-            "project_number": 61,
+            "encounter_number": "26",
+            "project_number": "58",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "3dcb4d8e-55ef-40d6-8174-92d644b96570"
         },
@@ -2536,8 +2546,8 @@
                 "level": "None",
                 "illustration_pan_y": -100.0
             },
-            "encounter_number": "43",
-            "project_number": 67,
+            "encounter_number": "27",
+            "project_number": "59",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "235c7589-5418-454a-81d1-1cfa68ccef05"
         },
@@ -2569,8 +2579,8 @@
                 "illustration_scale": 1.62,
                 "collection_number": "<exn>a"
             },
-            "encounter_number": "44",
-            "project_number": 68,
+            "encounter_number": "28",
+            "project_number": "60",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "99e96a25-e298-459e-b8af-5fa0ed4a5649"
         },
@@ -2591,8 +2601,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "18-21",
-            "project_number": 52,
+            "encounter_number": "21-24",
+            "project_number": "56",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "820e2354-7383-4846-821b-5aa3354b1b64",
             "amount": 4
@@ -2617,8 +2627,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "38",
-            "project_number": 62,
+            "encounter_number": "17",
+            "project_number": "52",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "e502359b-db2f-4d14-9462-01cc7ed44848"
         },
@@ -2642,8 +2652,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "39",
-            "project_number": 63,
+            "encounter_number": "18",
+            "project_number": "53",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "bea1e552-7f92-484b-b645-61e953d863c0"
         },
@@ -2667,8 +2677,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "40",
-            "project_number": 64,
+            "encounter_number": "19",
+            "project_number": "54",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "3674dc31-5957-4bea-97bf-6c8fd1a36863"
         },
@@ -2692,8 +2702,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "41",
-            "project_number": 65,
+            "encounter_number": "20",
+            "project_number": "55",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "9690dfb5-c40b-4b1b-8837-7dbcdb1610e0"
         },
@@ -2725,7 +2735,7 @@
                 "illustration_pan_y": 60.0
             },
             "encounter_number": "10",
-            "project_number": 45,
+            "project_number": "45",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "2cfc7f1e-3879-41ef-b0c6-a263c01d1ad0"
         },
@@ -2758,7 +2768,7 @@
                 "illustration_scale": 1.3
             },
             "encounter_number": "11",
-            "project_number": 46,
+            "project_number": "46",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "69d852cf-6f13-48fe-84a4-3d75fed512cd"
         },
@@ -2787,8 +2797,8 @@
                 "illustration_pan_x": -64.0,
                 "illustration_pan_y": 232.0
             },
-            "encounter_number": "12",
-            "project_number": 47,
+            "encounter_number": "15",
+            "project_number": "50",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "6fb69fb4-b17c-4230-b4c7-b7ebaa55d6ef"
         },
@@ -2818,8 +2828,8 @@
                 "illustration_pan_y": 60.0,
                 "illustration_pan_x": -750.0
             },
-            "encounter_number": "13",
-            "project_number": 48,
+            "encounter_number": "12",
+            "project_number": "47",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "1e2d1c56-4ac3-4297-ab8f-ff8daa635c18"
         },
@@ -2850,8 +2860,8 @@
                 "illustration_pan_x": -750.0,
                 "illustration_pan_y": 60.0
             },
-            "encounter_number": "9",
-            "project_number": 44,
+            "encounter_number": "13",
+            "project_number": "48",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "84e1cb2a-ceb5-4090-9586-cc684a8b6948"
         },
@@ -2884,7 +2894,7 @@
                 "illustration_scale": 1.3
             },
             "encounter_number": "14",
-            "project_number": 49,
+            "project_number": "49",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "dca9d390-3b91-41cf-abfb-8dbd3fad92a6"
         },
@@ -2910,8 +2920,8 @@
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
-            "encounter_number": "15",
-            "project_number": 50,
+            "encounter_number": "9",
+            "project_number": "44",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "6ca153f4-04d4-410b-8f2f-1323687c2c87"
         },
@@ -2930,8 +2940,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "22-23",
-            "project_number": 53,
+            "encounter_number": "37-38",
+            "project_number": "65",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "a638ec27-5b9d-47f0-a085-098f1c359706",
             "amount": 2
@@ -2960,8 +2970,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33",
-            "project_number": 58,
+            "encounter_number": "29",
+            "project_number": "61",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "cf52c5ed-509b-4c37-8bdd-f6fe67f5c81b"
         },
@@ -2981,8 +2991,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "16-17",
-            "project_number": 51,
+            "encounter_number": "39-40",
+            "project_number": "66",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "f2054446-1b5f-45eb-848e-a4206c6b1e80",
             "amount": 2
@@ -3003,8 +3013,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "24-25",
-            "project_number": 54,
+            "encounter_number": "41-42",
+            "project_number": "67",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "9098bebf-82d9-4528-85cc-b2e6d4efefaf",
             "amount": 2
@@ -3029,8 +3039,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-30",
-            "project_number": 56,
+            "encounter_number": "30-32",
+            "project_number": "62",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "2e178b32-6c6f-49af-a17b-ac7cbbbdec60",
             "amount": 3
@@ -3054,8 +3064,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "31-32",
-            "project_number": 57,
+            "encounter_number": "33-34",
+            "project_number": "63",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "ea5903e9-df6e-4278-a6af-68490366e9b6",
             "amount": 2
@@ -3075,8 +3085,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26-27",
-            "project_number": 55,
+            "encounter_number": "43-44",
+            "project_number": "68",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "6222bba5-a6c1-4460-8eb7-b5b67f1a78d1",
             "amount": 2
@@ -3101,8 +3111,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "34-35",
-            "project_number": 59,
+            "encounter_number": "35-36",
+            "project_number": "64",
             "encounter_set": "df088e2a-68fb-4c6c-b5f1-524d6b9617d0",
             "id": "5d885043-5625-4c92-8bd8-46440caed2f3",
             "amount": 2
@@ -3130,8 +3140,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "7",
-            "project_number": 277,
+            "encounter_number": "1",
+            "project_number": "274",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "67426cc3-4128-45da-8a32-0e4ddc2f3807"
         },
@@ -3149,8 +3159,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1-2",
-            "project_number": 274,
+            "encounter_number": "2-3",
+            "project_number": "275",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "6f206aab-5765-4c9c-b012-48a3745e5d3a",
             "amount": 2
@@ -3172,8 +3182,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3-4",
-            "project_number": 275,
+            "encounter_number": "4-5",
+            "project_number": "276",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "a7ed5ea6-769c-4cdc-951c-ffa19bf7bd04",
             "amount": 2
@@ -3183,7 +3193,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Virtual. Nightmare.",
-                "text": "Peril.\n<b>Revelation --</b> Test <willpower> or <agility> (4). If you fail, either move The Boogeyman to your current location, or The Boogeyman immediately attacks you. <i>(from any location)</i>",
+                "text": "Peril.\n<b>Revelation --</b> Test <willpower> or <agility> (4). If you fail, you must decide <i>(choose one)</i>:\n<bullet> Move The Boogeyman to your current location\n<bullet> The Boogeyman attacks you (even if it is not at your location).",
                 "flavor_text": "<font \"./fonts/Bonechiller.ttf\">DON'T LOOK BEHIND",
                 "illustration": "./images/edited_images/jack - mark-fredrickson.jpg",
                 "illustrator": "Illus. Mark Fredrickson",
@@ -3195,8 +3205,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5-6",
-            "project_number": 276,
+            "encounter_number": "6-7",
+            "project_number": "277",
             "encounter_set": "3b1b9f85-9e36-4509-b838-955642e5bc0a",
             "id": "58b59fb2-bb65-409a-af9a-f6b41aff0762",
             "amount": 2
@@ -3290,7 +3300,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 69,
+            "project_number": "69",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "a285dd2f-ab62-409a-a4f1-1aeb287cf8f1"
         },
@@ -3315,10 +3325,11 @@
                 "flavor_text": null,
                 "index": "1b"
             },
-            "project_number": 70,
+            "project_number": "72",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "8522c04d-a100-4cba-b7c4-504e0022848c",
-            "encounter_number": "2"
+            "encounter_number": "2",
+            "enumerated": "manual"
         },
         {
             "name": "The Quantum Maelstrom",
@@ -3341,9 +3352,10 @@
                 "index": "1b"
             },
             "encounter_number": "3",
-            "project_number": 71,
+            "project_number": "70",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "a8471874-5a11-4b58-ae06-59f23760e428"
+            "id": "a8471874-5a11-4b58-ae06-59f23760e428",
+            "enumerated": "manual"
         },
         {
             "name": "The Quantum Maelstrom",
@@ -3366,9 +3378,10 @@
                 "index": "1b"
             },
             "encounter_number": "4",
-            "project_number": 72,
+            "project_number": "71",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
-            "id": "32db5053-0fdc-41ac-b28c-eac0f28c9c64"
+            "id": "32db5053-0fdc-41ac-b28c-eac0f28c9c64",
+            "enumerated": "manual"
         },
         {
             "name": "Elbrus Station",
@@ -3392,7 +3405,7 @@
                 "index": "1b"
             },
             "encounter_number": "5",
-            "project_number": 73,
+            "project_number": "73",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "a7d24e3d-974b-4f65-9899-4b8441b647ea"
         },
@@ -3417,8 +3430,8 @@
                 "text": "The purple glow of Elbrus subsides as you plant the final Q-Shard into the ground. The mad physicist is overjoyed and relieved. You have completely stabilized the quantum field. \n(<res>2</res>)\n\n\n",
                 "index": "2b"
             },
-            "encounter_number": "7",
-            "project_number": 75,
+            "encounter_number": "6",
+            "project_number": "74",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "78f0c5b3-98b5-4764-ae51-5b1f8ad8729d"
         },
@@ -3443,8 +3456,8 @@
                 "text": "If an investigator resigned with Erwin Simmons under their control:\nThe shuttle takes off in a medley of noises and barely escapes the collapsing quantum field. Erwin looks down at the facility in melancholy. Years of his research, lost in this unreality. Despite the tragedy, he is grateful for your efficacy.\n(<res>3</res>)\nOtherwise:\nThe shuttle takes off without a hitch and escapes quantum field. The short range radio crackles once more into life and you hear Erwin Simmon's final words. \"So long my friends! Hope you enjoyed your stay! Let it be known that --\". And it cuts to static.\n(<res>1</res>)\n\n",
                 "index": "2b"
             },
-            "encounter_number": "6",
-            "project_number": 74,
+            "encounter_number": "7",
+            "project_number": "75",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "3f23bfbb-f054-4d65-bdd2-d801bd91c617"
         },
@@ -3470,8 +3483,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "35",
-            "project_number": 92,
+            "encounter_number": "9",
+            "project_number": "77",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "9f3f1074-b9ce-48ab-843b-036e9e25e181"
         },
@@ -3502,8 +3515,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "36",
-            "project_number": 93,
+            "encounter_number": "10",
+            "project_number": "78",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "e5a05526-012a-4af1-a08c-e1991d5be060"
         },
@@ -3534,8 +3547,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "8",
-            "project_number": 76,
+            "encounter_number": "11",
+            "project_number": "79",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "eb30445d-ff37-42e1-815c-2d1947d71c4b"
         },
@@ -3569,8 +3582,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "9",
-            "project_number": 77,
+            "encounter_number": "12",
+            "project_number": "80",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "cdfcd2ed-c60a-46ac-b705-91d8b5dac9c9"
         },
@@ -3603,8 +3616,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "10",
-            "project_number": 78,
+            "encounter_number": "13",
+            "project_number": "81",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "7ec44ac5-d753-4475-b358-61f512f6ce9a"
         },
@@ -3636,8 +3649,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "15",
-            "project_number": 83,
+            "encounter_number": "8",
+            "project_number": "76",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "47ab3567-1ef9-45a5-8b08-80661d976485"
         },
@@ -3671,8 +3684,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "11",
-            "project_number": 79,
+            "encounter_number": "14",
+            "project_number": "82",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "51f25199-fc4c-4312-912d-0d32fd1b7713"
         },
@@ -3705,8 +3718,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "12",
-            "project_number": 80,
+            "encounter_number": "15",
+            "project_number": "83",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "443bc783-5e76-447e-b6d8-709a8a0f27ec"
         },
@@ -3744,8 +3757,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "13",
-            "project_number": 81,
+            "encounter_number": "16",
+            "project_number": "84",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "0af8696c-3b42-40c8-9787-ce3c7983038e"
         },
@@ -3778,8 +3791,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "14",
-            "project_number": 82,
+            "encounter_number": "17",
+            "project_number": "85",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "17b45f9b-abd7-464f-9793-2f3a84b4b857"
         },
@@ -3799,8 +3812,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "16-18",
-            "project_number": 84,
+            "encounter_number": "25-27",
+            "project_number": "89",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "428cad56-60f7-4192-8aa4-fc9224930e05",
             "amount": 3
@@ -3825,8 +3838,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-30",
-            "project_number": 89,
+            "encounter_number": "18-20",
+            "project_number": "86",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "173af58e-752d-40a5-84ca-09e80f5f4c5f",
             "amount": 3
@@ -3846,8 +3859,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "19-20",
-            "project_number": 85,
+            "encounter_number": "28-29",
+            "project_number": "90",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "0c5edf85-c3c0-4d67-bc4c-89024abbab64",
             "amount": 2
@@ -3871,8 +3884,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "31-32",
-            "project_number": 90,
+            "encounter_number": "21-22",
+            "project_number": "87",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "2761d15b-47f6-46d5-beb4-b037b7bdd5ce",
             "amount": 2
@@ -3892,8 +3905,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "21-22",
-            "project_number": 86,
+            "encounter_number": "30-31",
+            "project_number": "91",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "dc5ac22c-1e56-428c-b14d-a834e64d7521",
             "amount": 2
@@ -3913,8 +3926,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "23-25",
-            "project_number": 87,
+            "encounter_number": "32-34",
+            "project_number": "92",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "9aa24c71-0652-4020-8c67-7dfaa146dc57",
             "amount": 3
@@ -3941,8 +3954,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-34",
-            "project_number": 91,
+            "encounter_number": "23-24",
+            "project_number": "88",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "f1e0e3c3-85ad-4bb8-8300-a96d28d7a679",
             "amount": 2
@@ -3962,8 +3975,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26-27",
-            "project_number": 88,
+            "encounter_number": "35-36",
+            "project_number": "93",
             "encounter_set": "d5bfcfa3-fc95-4e5d-b4fa-e1c0584bf9d3",
             "id": "36ab17df-da83-4d67-ad89-50f8046b0788",
             "amount": 2
@@ -4057,7 +4070,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 94,
+            "project_number": "94",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "8c0f7be9-f3e3-4a28-8ef1-da3b10909b02"
         },
@@ -4083,7 +4096,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "project_number": 95,
+            "project_number": "95",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "1e61468b-6a18-4f18-b976-c80a1af9e978"
         },
@@ -4109,7 +4122,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "project_number": 96,
+            "project_number": "96",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "cc17a31e-5502-4091-a23d-c8352f547054"
         },
@@ -4134,7 +4147,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "project_number": 97,
+            "project_number": "97",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "8a7dd837-f99a-4be6-b210-820e665fdaef"
         },
@@ -4160,7 +4173,7 @@
                 "index": "1b"
             },
             "encounter_number": "6",
-            "project_number": 99,
+            "project_number": "99",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "d1084373-353c-4cd6-b53c-71274640cb9c"
         },
@@ -4185,7 +4198,7 @@
                 "index": "2b"
             },
             "encounter_number": "7",
-            "project_number": 100,
+            "project_number": "100",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "078f8237-a014-4af0-8768-9005a199a22c"
         },
@@ -4211,7 +4224,7 @@
                 "index": "3b"
             },
             "encounter_number": "8",
-            "project_number": 101,
+            "project_number": "101",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "3ca6a40f-f4dc-4537-84c9-3dc6b9546abf"
         },
@@ -4237,7 +4250,7 @@
                 "index": "4b"
             },
             "encounter_number": "5",
-            "project_number": 98,
+            "project_number": "98",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "e1a7a5a5-0441-4cfc-a1f3-8b110c99e26e"
         },
@@ -4265,8 +4278,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "54",
-            "project_number": 134,
+            "encounter_number": "17",
+            "project_number": "110",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "775c0cd1-7034-4bac-a3ff-a18c3cd1df2c"
         },
@@ -4295,8 +4308,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "47",
-            "project_number": 127,
+            "encounter_number": "18",
+            "project_number": "111",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "e713a755-c867-404b-b9fe-8da234971c1b"
         },
@@ -4333,7 +4346,7 @@
                 "illustration_scale": 1.34
             },
             "encounter_number": "9",
-            "project_number": 102,
+            "project_number": "102",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "5676d2eb-3479-4fd6-a0d0-779976c00124"
         },
@@ -4369,8 +4382,8 @@
                 "illustration_pan_x": -412.0,
                 "illustration_scale": 1.34
             },
-            "encounter_number": "10",
-            "project_number": 103,
+            "encounter_number": "13",
+            "project_number": "106",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "0406bf63-b394-4a5b-a14c-23075f938f04"
         },
@@ -4409,7 +4422,7 @@
                 "illustration_scale": 1.34
             },
             "encounter_number": "11",
-            "project_number": 104,
+            "project_number": "104",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "1dfe3ddb-8637-4ab9-a7e2-27334591a442"
         },
@@ -4445,8 +4458,8 @@
                 "illustration_pan_x": -412.0,
                 "illustration_scale": 1.34
             },
-            "encounter_number": "12",
-            "project_number": 105,
+            "encounter_number": "16",
+            "project_number": "109",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "594d9c51-a794-40f4-adde-aafac735841f"
         },
@@ -4484,8 +4497,8 @@
                 "illustration_pan_x": -412.0,
                 "illustration_scale": 1.34
             },
-            "encounter_number": "13",
-            "project_number": 106,
+            "encounter_number": "12",
+            "project_number": "105",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "5fc577b9-5044-4a97-afe2-c5d43bb4a760"
         },
@@ -4525,7 +4538,7 @@
                 "illustration_scale": 1.34
             },
             "encounter_number": "14",
-            "project_number": 107,
+            "project_number": "107",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "abfeec36-3e83-4bfc-86fc-10b65dd86312"
         },
@@ -4563,8 +4576,8 @@
                 "illustration_pan_x": -412.0,
                 "illustration_pan_y": -32.0
             },
-            "encounter_number": "15",
-            "project_number": 108,
+            "encounter_number": "10",
+            "project_number": "103",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "fba5d627-ebe1-41d7-bcd9-8142dcca9e6b"
         },
@@ -4602,8 +4615,8 @@
                 "illustration_pan_x": -412.0,
                 "illustration_scale": 1.34
             },
-            "encounter_number": "16",
-            "project_number": 109,
+            "encounter_number": "15",
+            "project_number": "108",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "23819e5c-03a9-4ea8-b050-2c87f43d781d"
         },
@@ -4640,8 +4653,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "48",
-            "project_number": 128,
+            "encounter_number": "19",
+            "project_number": "112",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "95916b27-97d4-4c65-815c-cf8402aa11af"
         },
@@ -4678,8 +4691,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "49",
-            "project_number": 129,
+            "encounter_number": "20",
+            "project_number": "113",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "de282fb0-f434-4d3b-80b3-3c258328bb5e"
         },
@@ -4716,8 +4729,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "50",
-            "project_number": 130,
+            "encounter_number": "21",
+            "project_number": "114",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "10a57c95-d9eb-4fe7-b774-98a35ad92ced"
         },
@@ -4754,8 +4767,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "51",
-            "project_number": 131,
+            "encounter_number": "22",
+            "project_number": "115",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "7759baba-8c3a-4dfb-9e56-0c47ee8a1064"
         },
@@ -4791,8 +4804,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "52",
-            "project_number": 132,
+            "encounter_number": "23",
+            "project_number": "116",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "4ff56a9e-2ed3-4f61-8ee2-b293aafd50c2"
         },
@@ -4829,8 +4842,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "53",
-            "project_number": 133,
+            "encounter_number": "24",
+            "project_number": "117",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "9c85c685-b44e-4834-864b-dcc838fb1691"
         },
@@ -4844,8 +4857,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "17",
-            "project_number": 110,
+            "encounter_number": "25",
+            "project_number": "118",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "f69046d2-f090-4205-84dc-5a8195b3bea9"
         },
@@ -4859,8 +4872,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "18",
-            "project_number": 111,
+            "encounter_number": "26",
+            "project_number": "119",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "08486166-c13e-4cc9-856e-232fc09176db"
         },
@@ -4874,8 +4887,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "19",
-            "project_number": 112,
+            "encounter_number": "27",
+            "project_number": "120",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "323a421f-4882-41d3-9b1b-d763a8a6226c"
         },
@@ -4889,8 +4902,8 @@
                 "type": "encounter",
                 "text": "\n\n\n\n"
             },
-            "encounter_number": "20",
-            "project_number": 113,
+            "encounter_number": "28",
+            "project_number": "121",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "b3eca431-dd78-4b8a-8fff-782ecd3f8280"
         },
@@ -4904,8 +4917,8 @@
                 "type": "encounter",
                 "text": "\n\n\n\n"
             },
-            "encounter_number": "21",
-            "project_number": 114,
+            "encounter_number": "29",
+            "project_number": "122",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "4c644c8a-3022-4e0b-b4f0-373614483658"
         },
@@ -4919,8 +4932,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "22",
-            "project_number": 115,
+            "encounter_number": "30",
+            "project_number": "123",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "7d74ea44-8d90-4bb8-bd2e-085094391653"
         },
@@ -4939,8 +4952,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "23-24",
-            "project_number": 116,
+            "encounter_number": "39-40",
+            "project_number": "127",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "741c68fe-0b89-4118-a2ed-5d65c96904fd",
             "amount": 2
@@ -4961,8 +4974,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "25-26",
-            "project_number": 117,
+            "encounter_number": "41-42",
+            "project_number": "128",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "4eb345b6-854b-4900-95d5-428a0e10e1d2",
             "amount": 2
@@ -4989,8 +5002,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "39-40",
-            "project_number": 124,
+            "encounter_number": "31-32",
+            "project_number": "124",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "14a3397b-dd4b-47e1-93f1-0908427adbd6",
             "amount": 2
@@ -5010,8 +5023,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "27-28",
-            "project_number": 118,
+            "encounter_number": "43-44",
+            "project_number": "129",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "9f8f9a36-c33f-4009-8030-7d66e3ee5548",
             "amount": 2
@@ -5031,8 +5044,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "29-30",
-            "project_number": 119,
+            "encounter_number": "45-46",
+            "project_number": "130",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "9f343705-c943-440f-b79c-1ae5c09050ca",
             "amount": 2
@@ -5053,8 +5066,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "31-32",
-            "project_number": 120,
+            "encounter_number": "47-48",
+            "project_number": "131",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "533fe86e-9b99-40ae-bca2-a798f092af5b",
             "amount": 2
@@ -5081,8 +5094,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "41-43",
-            "project_number": 125,
+            "encounter_number": "33-35",
+            "project_number": "125",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "9875a0eb-2f9d-4504-be52-ce6c36220906",
             "amount": 3
@@ -5102,8 +5115,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-34",
-            "project_number": 121,
+            "encounter_number": "49-50",
+            "project_number": "132",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "acbe271d-bded-4396-ac72-92582606aa01",
             "amount": 2
@@ -5123,8 +5136,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "35-36",
-            "project_number": 122,
+            "encounter_number": "51-52",
+            "project_number": "133",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "0981160a-efbd-4338-93dd-8ed3531ccf82",
             "amount": 2
@@ -5150,8 +5163,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "44-46",
-            "project_number": 126,
+            "encounter_number": "36-38",
+            "project_number": "126",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "cfb109df-7db6-4fea-8d59-8c88a6c440c5",
             "amount": 3
@@ -5172,8 +5185,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "37-38",
-            "project_number": 123,
+            "encounter_number": "53-54",
+            "project_number": "134",
             "encounter_set": "e3a99c11-8a04-4f72-883f-3f2cce4656bc",
             "id": "36fe7af6-376c-4636-9b7b-acb0b2edac4a",
             "amount": 2
@@ -5267,7 +5280,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 135,
+            "project_number": "135",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "bd572186-5b26-4162-af6f-e5b206f4bdb8"
         },
@@ -5293,7 +5306,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "project_number": 136,
+            "project_number": "136",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "ab261d64-1493-49d6-ab2e-bb28e88a3c84"
         },
@@ -5319,7 +5332,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "project_number": 137,
+            "project_number": "137",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "c256f280-2539-4e7a-a738-cc3b7076770c"
         },
@@ -5361,7 +5374,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "4",
-            "project_number": 138,
+            "project_number": "138",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "f43cdcd0-d1db-4aa4-b114-446436863229"
         },
@@ -5387,7 +5400,7 @@
                 "index": "4b"
             },
             "encounter_number": "5",
-            "project_number": 139,
+            "project_number": "139",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "4cc34c30-0290-425e-8b3d-f27a6382af2e"
         },
@@ -5413,7 +5426,7 @@
                 "index": "1b"
             },
             "encounter_number": "6",
-            "project_number": 140,
+            "project_number": "140",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "4c64fc41-59c7-4231-9500-01d13af0673c"
         },
@@ -5438,7 +5451,7 @@
                 "index": "2b"
             },
             "encounter_number": "7",
-            "project_number": 141,
+            "project_number": "141",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "f3986710-c207-418b-b348-6021e6043840"
         },
@@ -5462,8 +5475,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "41",
-            "project_number": 166,
+            "encounter_number": "14",
+            "project_number": "148",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "1d27f9e2-9616-436d-9302-97b2451c1fe2"
         },
@@ -5487,8 +5500,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "42",
-            "project_number": 167,
+            "encounter_number": "15",
+            "project_number": "149",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "02d716d1-173b-4492-9f9e-4e70dba06c75"
         },
@@ -5512,8 +5525,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "43",
-            "project_number": 168,
+            "encounter_number": "16",
+            "project_number": "150",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "e622ef6d-9fa2-4812-9b9a-8cc60df31ce6"
         },
@@ -5553,8 +5566,8 @@
                 "illustration_pan_y": 988.0,
                 "collection_number": "<exn>b"
             },
-            "encounter_number": "40",
-            "project_number": 165,
+            "encounter_number": "17",
+            "project_number": "151",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "9e6ee719-00f7-426d-b09d-e44bfb149819"
         },
@@ -5592,8 +5605,8 @@
                 "illustration_pan_x": -504.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "12",
-            "project_number": 146,
+            "encounter_number": "9",
+            "project_number": "143",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "038aab8e-6588-4e5d-a11b-d3290daa7562"
         },
@@ -5628,8 +5641,8 @@
                 "illustration_pan_x": -504.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "14",
-            "project_number": 148,
+            "encounter_number": "10",
+            "project_number": "144",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "d8b8de74-bcaf-46be-b996-ac5d816b08c8"
         },
@@ -5663,8 +5676,8 @@
                 "illustration_pan_y": 60.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "15",
-            "project_number": 149,
+            "encounter_number": "11",
+            "project_number": "145",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "d1a6bf3f-772a-4ea2-a470-953a9fef6906"
         },
@@ -5697,8 +5710,8 @@
                 "illustration_pan_x": -504.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "16",
-            "project_number": 150,
+            "encounter_number": "8",
+            "project_number": "142",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "1dec8f9c-b4dc-445a-ab2c-fa1a98c9c08c"
         },
@@ -5732,8 +5745,8 @@
                 "illustration_pan_x": -504.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "18",
-            "project_number": 152,
+            "encounter_number": "12",
+            "project_number": "146",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "f8d52b54-d0fe-4a3c-8eb6-3a5f3cd359f0"
         },
@@ -5769,8 +5782,8 @@
                 "illustration_pan_x": -504.0,
                 "illustration_scale": 1.16
             },
-            "encounter_number": "19",
-            "project_number": 153,
+            "encounter_number": "13",
+            "project_number": "147",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "c85ff43a-7c72-48bf-9fbd-23945705c841"
         },
@@ -5807,8 +5820,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "8",
-            "project_number": 142,
+            "encounter_number": "18",
+            "project_number": "152",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "9987d1d3-e058-4824-9683-2c69c92893d8"
         },
@@ -5845,8 +5858,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "9",
-            "project_number": 143,
+            "encounter_number": "19",
+            "project_number": "153",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "35f4de4d-4aa2-4d2d-bfcc-5757a6ac04e1"
         },
@@ -5883,8 +5896,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "10",
-            "project_number": 144,
+            "encounter_number": "20",
+            "project_number": "154",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "54e7c116-1997-45a7-baff-56eb9f4b758e"
         },
@@ -5921,8 +5934,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "11",
-            "project_number": 145,
+            "encounter_number": "21",
+            "project_number": "155",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "c276d833-618b-449f-a400-cd1eb3722476"
         },
@@ -5960,8 +5973,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "13",
-            "project_number": 147,
+            "encounter_number": "22",
+            "project_number": "156",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "14fce287-21c0-43b7-964c-5f6c5a02e873"
         },
@@ -5998,8 +6011,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "17",
-            "project_number": 151,
+            "encounter_number": "23",
+            "project_number": "157",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "62134cf4-4900-4099-9eb6-ea53c0b47fb3"
         },
@@ -6020,8 +6033,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "20",
-            "project_number": 154,
+            "encounter_number": "24",
+            "project_number": "158",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "3c034aeb-5eda-4691-aede-509e33d6cd8c"
         },
@@ -6042,8 +6055,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "21",
-            "project_number": 155,
+            "encounter_number": "25",
+            "project_number": "159",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "52c15171-0a73-4ff2-9e73-2ed1f31b344c"
         },
@@ -6063,8 +6076,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "22",
-            "project_number": 156,
+            "encounter_number": "26",
+            "project_number": "160",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "76d1a066-8651-4fe6-9dd4-b6006c19b0fe",
             "name": "The Teacher"
@@ -6083,8 +6096,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "23-24",
-            "project_number": 157,
+            "encounter_number": "30-31",
+            "project_number": "162",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "bfd26d7e-0db5-4a81-a41e-370ce1a06dc0",
             "amount": 2
@@ -6104,8 +6117,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "25-26",
-            "project_number": 158,
+            "encounter_number": "32-33",
+            "project_number": "163",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "7288c47f-0c3c-42e8-b597-efdbe0e41075",
             "amount": 2
@@ -6125,8 +6138,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "27-28",
-            "project_number": 159,
+            "encounter_number": "34-35",
+            "project_number": "164",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "f50139d2-ed25-4b27-a98e-22bcc94ea881",
             "amount": 2
@@ -6147,8 +6160,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "29-30",
-            "project_number": 160,
+            "encounter_number": "36-37",
+            "project_number": "165",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "249a20c4-5189-4b11-8942-556724988d48",
             "amount": 2
@@ -6168,8 +6181,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "31-32",
-            "project_number": 161,
+            "encounter_number": "38-39",
+            "project_number": "166",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "7b7d524b-355b-4ae7-b8c7-0e9675d357f2",
             "amount": 2
@@ -6195,8 +6208,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "37-39",
-            "project_number": 164,
+            "encounter_number": "27-29",
+            "project_number": "161",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "e905d192-2a9a-48f9-8d49-715060c2de6f",
             "amount": 3
@@ -6213,8 +6226,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-34",
-            "project_number": 162,
+            "encounter_number": "40-41",
+            "project_number": "167",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "63e063a5-e141-4a65-b388-bfc364e23264",
             "amount": 2
@@ -6234,8 +6247,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "35-36",
-            "project_number": 163,
+            "encounter_number": "42-43",
+            "project_number": "168",
             "encounter_set": "c62fb0c7-681b-4abf-a0f2-ecd160ddb1d5",
             "id": "cd2942fd-cf08-4d2f-a64f-2475dc9c2b40",
             "amount": 2
@@ -6253,8 +6266,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1-2",
-            "project_number": 291,
+            "encounter_number": "7-8",
+            "project_number": "293",
             "encounter_set": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
             "id": "2e73a8bc-973d-423c-9418-9b86d2846ae8",
             "amount": 2
@@ -6281,8 +6294,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3-5",
-            "project_number": 292,
+            "encounter_number": "1-3",
+            "project_number": "291",
             "encounter_set": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
             "id": "260c2d83-87f6-4bb0-a32d-b624b21f7176",
             "amount": 3
@@ -6309,8 +6322,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6-8",
-            "project_number": 293,
+            "encounter_number": "4-6",
+            "project_number": "292",
             "encounter_set": "a4e3403a-0968-45d2-8753-d22f3ee8c0ec",
             "id": "1b883fd4-39d8-40ac-8889-f9e170bbe63c",
             "amount": 3
@@ -6404,7 +6417,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 169,
+            "project_number": "169",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "fa89b76e-768c-45cf-be84-7f4141d4b518"
         },
@@ -6428,7 +6441,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "project_number": 170,
+            "project_number": "170",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "eb1e0d4f-5ae8-444e-97eb-c467d225807e"
         },
@@ -6451,7 +6464,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "project_number": 171,
+            "project_number": "171",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "060f8655-9956-40a4-9bde-788843a70296"
         },
@@ -6474,7 +6487,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "project_number": 172,
+            "project_number": "172",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "933cb9ad-be71-443d-9120-26ec2cd15ec9"
         },
@@ -6511,7 +6524,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "5",
-            "project_number": 173,
+            "project_number": "173",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "e5cdff18-bfa4-4d60-b5ed-e8c1693b82d7"
         },
@@ -6537,7 +6550,7 @@
                 "index": "2b"
             },
             "encounter_number": "6",
-            "project_number": 174,
+            "project_number": "174",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "49bba454-006c-428e-948c-2c4453fa4aae"
         },
@@ -6563,7 +6576,7 @@
                 "index": "3b"
             },
             "encounter_number": "7",
-            "project_number": 175,
+            "project_number": "175",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "f5ee2059-8ace-4d6a-bd32-70d93cf6b649"
         },
@@ -6589,8 +6602,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "25-28",
-            "project_number": 187,
+            "encounter_number": "8-11",
+            "project_number": "176",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "3996c0eb-3472-41ca-ad87-4240180bbe9f",
             "amount": 4
@@ -6619,8 +6632,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "23",
-            "project_number": 185,
+            "encounter_number": "12",
+            "project_number": "177",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "11e55968-2801-4436-a6b2-c0e9dcd0f363",
             "name": "Daemon of Nis"
@@ -6639,8 +6652,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "8",
-            "project_number": 176,
+            "encounter_number": "14",
+            "project_number": "179",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "dba31727-1a00-4b9d-a022-e1704f3d2563"
         },
@@ -6658,8 +6671,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "9",
-            "project_number": 177,
+            "encounter_number": "15",
+            "project_number": "180",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "011f68f3-83fe-4710-a204-a8025a4357e1"
         },
@@ -6677,8 +6690,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "10",
-            "project_number": 178,
+            "encounter_number": "16",
+            "project_number": "181",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "d8f6b36f-4bb8-4fe3-9f27-4c30e321a5c6"
         },
@@ -6697,8 +6710,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "11",
-            "project_number": 179,
+            "encounter_number": "17",
+            "project_number": "182",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "f2db4af1-eb55-4a36-ac49-aa4fed53a6c0"
         },
@@ -6715,8 +6728,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "12-14",
-            "project_number": 180,
+            "encounter_number": "18-20",
+            "project_number": "183",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "09b28e58-66b6-46b0-86bf-7c1346562349",
             "amount": 3
@@ -6736,8 +6749,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "15-16",
-            "project_number": 181,
+            "encounter_number": "21-22",
+            "project_number": "184",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "1c1249fc-38ca-4a57-b26a-d4aa6514c11a",
             "amount": 2
@@ -6758,8 +6771,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "17-18",
-            "project_number": 182,
+            "encounter_number": "23-24",
+            "project_number": "185",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "d59f70a8-4e35-411d-9760-e2940ff26509",
             "amount": 2
@@ -6780,8 +6793,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "19-20",
-            "project_number": 183,
+            "encounter_number": "25-26",
+            "project_number": "186",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "a44960fb-23c0-4db8-8c31-9e546f6b00e0",
             "amount": 2
@@ -6801,8 +6814,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "21-22",
-            "project_number": 184,
+            "encounter_number": "27-28",
+            "project_number": "187",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "3937674e-84a1-47ea-9401-5d44ca155d37",
             "amount": 2
@@ -6832,8 +6845,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "24",
-            "project_number": 186,
+            "encounter_number": "13",
+            "project_number": "178",
             "encounter_set": "fbc550be-6fef-4010-9152-48a0742abd09",
             "id": "c13c3269-cca9-4b20-857c-d0d5fd14043f"
         },
@@ -6926,7 +6939,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 188,
+            "project_number": "188",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "a44dc18e-2461-44ef-9ef7-5f7a785b0af0"
         },
@@ -6951,7 +6964,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "project_number": 189,
+            "project_number": "189",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "b13f893e-b89a-418f-9eea-37f592dbe630"
         },
@@ -6977,7 +6990,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "project_number": 190,
+            "project_number": "190",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "6e85c61e-e47d-43d4-be37-082a741653bd"
         },
@@ -7002,7 +7015,7 @@
                 "index": "1b"
             },
             "encounter_number": "4",
-            "project_number": 191,
+            "project_number": "191",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "2c12d246-0b19-4e2c-af1b-0812c3931e63"
         },
@@ -7028,7 +7041,7 @@
                 "index": "2b"
             },
             "encounter_number": "5",
-            "project_number": 192,
+            "project_number": "192",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "05c99d1b-9511-4df4-ba17-71b226b0b952"
         },
@@ -7050,7 +7063,7 @@
                 "index": "3b"
             },
             "encounter_number": "6",
-            "project_number": 193,
+            "project_number": "193",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "8e277e97-d58a-46cf-b0f7-608c4e87e546"
         },
@@ -7075,8 +7088,8 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "46",
-            "project_number": 221,
+            "encounter_number": "15",
+            "project_number": "202",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "6b6f2948-4b4e-4754-b695-0cb7d28371a8"
         },
@@ -7111,8 +7124,8 @@
                 "illustration_pan_x": -700.0,
                 "illustration_scale": 1.9
             },
-            "encounter_number": "7",
-            "project_number": 194,
+            "encounter_number": "8",
+            "project_number": "195",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "660791ac-11c4-4c9a-b4d3-27f7f89a027e"
         },
@@ -7146,8 +7159,8 @@
                 "illustration_pan_y": 204.0,
                 "illustration_pan_x": -428.0
             },
-            "encounter_number": "14",
-            "project_number": 201,
+            "encounter_number": "7",
+            "project_number": "194",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "9a84d600-24bb-4ee1-bad4-0f170aaf527c"
         },
@@ -7187,8 +7200,8 @@
                 "illustration_pan_y": 152.0,
                 "illustration_scale": 1.84
             },
-            "encounter_number": "8",
-            "project_number": 195,
+            "encounter_number": "9",
+            "project_number": "196",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "ce42e0a4-78fd-4877-9149-19fff319ecdc"
         },
@@ -7225,8 +7238,8 @@
                 "connections": "<copy>",
                 "illustration_pan_x": -510.0
             },
-            "encounter_number": "9",
-            "project_number": 196,
+            "encounter_number": "10",
+            "project_number": "197",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "89d316d5-5b32-4e5b-a834-ea2deb1e532c"
         },
@@ -7264,8 +7277,8 @@
                 "illustration_pan_y": 210.0,
                 "illustration_scale": 1.58
             },
-            "encounter_number": "10",
-            "project_number": 197,
+            "encounter_number": "11",
+            "project_number": "198",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "c18e48b9-2742-415c-b95a-3ce239bc7fca"
         },
@@ -7301,8 +7314,8 @@
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
-            "encounter_number": "11",
-            "project_number": 198,
+            "encounter_number": "12",
+            "project_number": "199",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "30a5e386-de8a-436a-8195-c628d6a9b886"
         },
@@ -7341,8 +7354,8 @@
                 "connections": "<copy>",
                 "illustration_pan_x": -100.0
             },
-            "encounter_number": "12",
-            "project_number": 199,
+            "encounter_number": "13",
+            "project_number": "200",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "b7bc4227-ffc7-4021-803e-6293beec544d"
         },
@@ -7380,8 +7393,8 @@
                 "illustration_pan_x": -4.0,
                 "illustration_pan_y": -460.0
             },
-            "encounter_number": "13",
-            "project_number": 200,
+            "encounter_number": "14",
+            "project_number": "201",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "f514ace9-ee3e-4174-9655-40eec243ccf3"
         },
@@ -7395,8 +7408,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "15",
-            "project_number": 202,
+            "encounter_number": "16",
+            "project_number": "203",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "b132a52a-9f63-461d-a165-f224755c8be8"
         },
@@ -7410,8 +7423,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "16",
-            "project_number": 203,
+            "encounter_number": "17",
+            "project_number": "204",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "10360154-bc3a-4ab3-9595-4b221464c337"
         },
@@ -7425,8 +7438,8 @@
                 "type": "encounter",
                 "text": null
             },
-            "encounter_number": "17",
-            "project_number": 204,
+            "encounter_number": "18",
+            "project_number": "205",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "08c4c42d-aabd-4e1c-b029-e1c6f7827794"
         },
@@ -7440,8 +7453,8 @@
                 "type": "encounter",
                 "text": ""
             },
-            "encounter_number": "18",
-            "project_number": 205,
+            "encounter_number": "19",
+            "project_number": "206",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "d8ecb2e3-6cea-4dc9-90fe-c59a979879c1"
         },
@@ -7459,8 +7472,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "19-21",
-            "project_number": 206,
+            "encounter_number": "26-28",
+            "project_number": "211",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "06060f11-338a-4dee-830e-75e0692e0458",
             "amount": 3
@@ -7481,8 +7494,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "22-23",
-            "project_number": 207,
+            "encounter_number": "29-30",
+            "project_number": "212",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "8fe47b83-eaff-47cb-81e0-870410c962fb",
             "amount": 2
@@ -7508,8 +7521,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "40",
-            "project_number": 217,
+            "encounter_number": "20",
+            "project_number": "207",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "120a0131-de52-4a88-a7e3-44b1246fd707"
         },
@@ -7528,8 +7541,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "24-25",
-            "project_number": 208,
+            "encounter_number": "31-32",
+            "project_number": "213",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "fc10e18a-eabf-49f0-b091-6735da01a5e8",
             "amount": 2
@@ -7551,8 +7564,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26",
-            "project_number": 209,
+            "encounter_number": "33",
+            "project_number": "214",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "4c254009-6248-44da-86eb-923f5598bce1"
         },
@@ -7572,8 +7585,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "27",
-            "project_number": 210,
+            "encounter_number": "34",
+            "project_number": "215",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "868f9463-8afd-4420-84c9-8f600668d760"
         },
@@ -7593,8 +7606,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-29",
-            "project_number": 211,
+            "encounter_number": "35-36",
+            "project_number": "216",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "d08c2c50-a803-488c-b5bb-d056d4dd72b6",
             "amount": 2
@@ -7615,8 +7628,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "30-31",
-            "project_number": 212,
+            "encounter_number": "37-38",
+            "project_number": "217",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "42b4fce5-5a5b-469a-972a-f5ddada0941f",
             "amount": 2
@@ -7635,8 +7648,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "32",
-            "project_number": 213,
+            "encounter_number": "39",
+            "project_number": "218",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "861c271f-0c9d-485a-856e-55a73b3b7c9c"
         },
@@ -7655,8 +7668,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-35",
-            "project_number": 214,
+            "encounter_number": "40-42",
+            "project_number": "219",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "9e7126f1-ed97-4c05-846d-0f39d80d17c2",
             "amount": 3
@@ -7676,8 +7689,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "36-37",
-            "project_number": 215,
+            "encounter_number": "43-44",
+            "project_number": "220",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "2f2d71dd-7b80-432f-a1e6-4f2dceeea806",
             "amount": 2
@@ -7703,8 +7716,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "41-42",
-            "project_number": 218,
+            "encounter_number": "21-22",
+            "project_number": "208",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "13a2283a-75b7-468e-9668-e4f7f023beb9",
             "amount": 2
@@ -7730,8 +7743,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "43-44",
-            "project_number": 219,
+            "encounter_number": "23-24",
+            "project_number": "209",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "fb69d544-2123-4dd3-88fb-96b0cb80a423",
             "amount": 2
@@ -7752,8 +7765,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "38-39",
-            "project_number": 216,
+            "encounter_number": "45-46",
+            "project_number": "221",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "5b36f219-b45d-41ad-a04f-c5899f852347",
             "amount": 2
@@ -7779,8 +7792,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "45",
-            "project_number": 220,
+            "encounter_number": "25",
+            "project_number": "210",
             "encounter_set": "3d467a72-bdc2-499e-b51e-44335d9b4526",
             "id": "af39c5fa-3e5d-4f9b-b547-cf3576160b71"
         },
@@ -7873,7 +7886,7 @@
                 "collection_number": "<exn>b"
             },
             "encounter_number": "1",
-            "project_number": 222,
+            "project_number": "222",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "c2b2daa8-ebe1-40af-ba16-62461cd8b147"
         },
@@ -7907,7 +7920,7 @@
                 "collection_number": "<exi>      <exn>b"
             },
             "encounter_number": "2",
-            "project_number": 223,
+            "project_number": "223",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "7d2c714d-a465-4dc7-b400-8546078e3edc"
         },
@@ -7930,8 +7943,8 @@
                 "flavor_text": null,
                 "index": "2b"
             },
-            "encounter_number": "4",
-            "project_number": 225,
+            "encounter_number": "3",
+            "project_number": "224",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "dae67fb9-a56a-437d-8dbd-9938071aa74e"
         },
@@ -7959,8 +7972,8 @@
                 "illustration_scale": 3.52,
                 "collection_number": "<exn>b"
             },
-            "encounter_number": "5",
-            "project_number": 226,
+            "encounter_number": "4",
+            "project_number": "225",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "2b42477b-d26a-44f8-b295-01f332d63765"
         },
@@ -7983,8 +7996,8 @@
                 "flavor_text": null,
                 "index": "1d"
             },
-            "encounter_number": "3",
-            "project_number": 224,
+            "encounter_number": "5",
+            "project_number": "226",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "76e774e1-6a18-4517-a436-5f996e32615f"
         },
@@ -8010,7 +8023,7 @@
                 "index": "1b"
             },
             "encounter_number": "6",
-            "project_number": 227,
+            "project_number": "227",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "15b021b6-d579-4dff-be3b-bc5f6c1e784b"
         },
@@ -8035,7 +8048,7 @@
                 "index": "1d"
             },
             "encounter_number": "7",
-            "project_number": 228,
+            "project_number": "228",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "4816ac22-8c77-4f3e-ae6f-fb14d4a409ea"
         },
@@ -8065,8 +8078,8 @@
                 "illustration_pan_x": -840.0,
                 "illustration_scale": 2.58
             },
-            "encounter_number": "17",
-            "project_number": 238,
+            "encounter_number": "8",
+            "project_number": "229",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "50028b29-6b5a-4b7c-b4e8-151c97f61322"
         },
@@ -8103,8 +8116,8 @@
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": -450.0
             },
-            "encounter_number": "14",
-            "project_number": 235,
+            "encounter_number": "9",
+            "project_number": "230",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "5511e747-588c-4eb4-9f89-81603a77de3f"
         },
@@ -8140,7 +8153,7 @@
                 "illustration_scale": 1.52
             },
             "encounter_number": "10",
-            "project_number": 231,
+            "project_number": "231",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "51e8568c-948d-4da0-a802-1810c0764500"
         },
@@ -8176,8 +8189,8 @@
                 "illustration_pan_x": -140.0,
                 "illustration_pan_y": 190.0
             },
-            "encounter_number": "19",
-            "project_number": 240,
+            "encounter_number": "11",
+            "project_number": "232",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "0b06f865-b76d-40e1-a4a0-535c6590df76"
         },
@@ -8206,8 +8219,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "39",
-            "project_number": 254,
+            "encounter_number": "12",
+            "project_number": "233",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "51470951-6ccc-49c6-af6e-8650f01afe54"
         },
@@ -8238,8 +8251,8 @@
                 "illustration_pan_x": -132.0,
                 "illustration_scale": 1.5
             },
-            "encounter_number": "16",
-            "project_number": 237,
+            "encounter_number": "13",
+            "project_number": "234",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "a1298751-69d7-4c84-abcc-3a2cefae5f54"
         },
@@ -8263,8 +8276,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "42",
-            "project_number": 256,
+            "encounter_number": "14",
+            "project_number": "235",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "a2943316-28d0-4b2f-a186-91ffa3d98874"
         },
@@ -8291,8 +8304,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "35",
-            "project_number": 251,
+            "encounter_number": "15",
+            "project_number": "236",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "9d8db9cb-b33e-4198-a5cc-da0df577d724"
         },
@@ -8321,8 +8334,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "32",
-            "project_number": 248,
+            "encounter_number": "16",
+            "project_number": "237",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "5276e108-81fc-45f8-afa2-e88f56f8f6d6"
         },
@@ -8355,8 +8368,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "9",
-            "project_number": 230,
+            "encounter_number": "17",
+            "project_number": "238",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "317e0a5b-a39a-4f64-af8a-620a150959ab"
         },
@@ -8386,8 +8399,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "13",
-            "project_number": 234,
+            "encounter_number": "18",
+            "project_number": "239",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "f0b4e9bf-4b5b-4047-8d6b-8da2820eed1f"
         },
@@ -8419,8 +8432,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "8",
-            "project_number": 229,
+            "encounter_number": "19",
+            "project_number": "240",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "f0e28108-1c19-4389-ab9d-64599f7b3838"
         },
@@ -8451,8 +8464,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "11",
-            "project_number": 232,
+            "encounter_number": "20",
+            "project_number": "241",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "76b28543-c959-4e24-928c-b8b37717f223"
         },
@@ -8485,8 +8498,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "15",
-            "project_number": 236,
+            "encounter_number": "21",
+            "project_number": "242",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "d5d3913f-1ce7-47d2-83eb-b0e1dbd087c9"
         },
@@ -8519,8 +8532,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "12",
-            "project_number": 233,
+            "encounter_number": "22",
+            "project_number": "243",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "b5fcca09-60ec-44a7-876f-75764642ad42"
         },
@@ -8552,8 +8565,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "18",
-            "project_number": 239,
+            "encounter_number": "23",
+            "project_number": "244",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "0599f5ae-7e2d-413b-82b4-a818eafcc1a6"
         },
@@ -8574,8 +8587,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "20",
-            "project_number": 241,
+            "encounter_number": "30",
+            "project_number": "251",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "f776d4c4-2536-445f-823e-88b965619341"
         },
@@ -8604,8 +8617,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "48",
-            "project_number": 262,
+            "encounter_number": "25",
+            "project_number": "246",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "34645e61-6392-43a8-b435-190939e4a87a"
         },
@@ -8634,8 +8647,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "46",
-            "project_number": 260,
+            "encounter_number": "27",
+            "project_number": "248",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "c16c78bf-919d-4ce1-9a3a-46e68c15ef04"
         },
@@ -8665,8 +8678,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "49",
-            "project_number": 263,
+            "encounter_number": "29",
+            "project_number": "250",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "a2392c2c-3242-45a2-86da-7a5e76303491"
         },
@@ -8695,8 +8708,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "43",
-            "project_number": 257,
+            "encounter_number": "24",
+            "project_number": "245",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "e179a550-a373-4ef6-a6db-f229a8528705"
         },
@@ -8730,8 +8743,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "44",
-            "project_number": 258,
+            "encounter_number": "26",
+            "project_number": "247",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "83b41b24-9d5b-4fb1-93ca-4f9bd9584611"
         },
@@ -8763,8 +8776,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "47",
-            "project_number": 261,
+            "encounter_number": "28",
+            "project_number": "249",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "daadcac4-8257-4e9b-98e7-8601b6158785"
         },
@@ -8800,8 +8813,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "36",
-            "project_number": 252,
+            "encounter_number": "31",
+            "project_number": "252",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "dcc73244-ed23-4483-a768-9e79f0b158a0"
         },
@@ -8835,8 +8848,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "33",
-            "project_number": 249,
+            "encounter_number": "32",
+            "project_number": "253",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "e8bc30a2-7874-4025-bb66-7d2f7e75e5a3"
         },
@@ -8857,8 +8870,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "21",
-            "project_number": 242,
+            "encounter_number": "34",
+            "project_number": "255",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "4b2077d8-23f0-4d1b-abe5-dacc10ae41b0"
         },
@@ -8891,8 +8904,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "52",
-            "project_number": 266,
+            "encounter_number": "35",
+            "project_number": "256",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "737a148e-4424-465e-a00f-709b4a447821"
         },
@@ -8928,8 +8941,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "34",
-            "project_number": 250,
+            "encounter_number": "33",
+            "project_number": "254",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "3fe96a92-0847-4361-8185-9f1c1452708c"
         },
@@ -8960,8 +8973,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "45",
-            "project_number": 259,
+            "encounter_number": "36",
+            "project_number": "257",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "35bcd77e-081a-4e5a-b417-d225483eb184"
         },
@@ -8995,8 +9008,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "50",
-            "project_number": 264,
+            "encounter_number": "37",
+            "project_number": "258",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "5cb25879-de73-4840-b038-f91ce86fad09"
         },
@@ -9029,8 +9042,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "51",
-            "project_number": 265,
+            "encounter_number": "38",
+            "project_number": "259",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "2ffd06b5-2581-4167-b640-15a254b57b7f"
         },
@@ -9064,8 +9077,8 @@
                 "collection_icon": "",
                 "collection_number": ""
             },
-            "encounter_number": "53",
-            "project_number": 267,
+            "encounter_number": "39",
+            "project_number": "260",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "2ef0c907-0713-4330-84cb-8084ab508daa"
         },
@@ -9082,8 +9095,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "22-23",
-            "project_number": 243,
+            "encounter_number": "46-47",
+            "project_number": "264",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "95b1def3-ad19-4820-b7d8-2db6035767d9",
             "amount": 2
@@ -9110,8 +9123,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "30-31",
-            "project_number": 247,
+            "encounter_number": "40-41",
+            "project_number": "261",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "3d9bb1eb-7b06-4547-88d2-d83b8d1427ca",
             "amount": 2
@@ -9132,8 +9145,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "24-25",
-            "project_number": 244,
+            "encounter_number": "48-49",
+            "project_number": "265",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "c9006b4e-be2d-4ac6-8b4b-e5d5f93b9c21",
             "amount": 2
@@ -9153,8 +9166,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26-27",
-            "project_number": 245,
+            "encounter_number": "50-51",
+            "project_number": "266",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "d888c709-22a4-4100-8b97-1932c9b5bcd1",
             "amount": 2
@@ -9181,8 +9194,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "37-38",
-            "project_number": 253,
+            "encounter_number": "42-43",
+            "project_number": "262",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "a052a537-0e66-46b8-9f3e-b3de0aa1105f",
             "amount": 2
@@ -9203,8 +9216,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-29",
-            "project_number": 246,
+            "encounter_number": "52-53",
+            "project_number": "267",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "4ed7af72-3dd3-46e5-a4f3-e3b7016847f9",
             "amount": 2
@@ -9230,8 +9243,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "40-41",
-            "project_number": 255,
+            "encounter_number": "44-45",
+            "project_number": "263",
             "encounter_set": "7d922ad4-fe0b-4591-ae25-84b5cd146b9a",
             "id": "87f01b33-cf37-484d-bc66-378232463ba3",
             "amount": 2
@@ -9251,8 +9264,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3-5",
-            "project_number": 290,
+            "encounter_number": "1-3",
+            "project_number": "289",
             "encounter_set": "2c9d053c-fd28-4a1f-bc7e-9256d7075507",
             "id": "89693a70-2357-48bb-bb4b-f36fc2c42240",
             "amount": 3
@@ -9272,8 +9285,8 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1-2",
-            "project_number": 289,
+            "encounter_number": "4-5",
+            "project_number": "290",
             "encounter_set": "2c9d053c-fd28-4a1f-bc7e-9256d7075507",
             "id": "420810cb-fe89-4463-bef6-3b3c1087edad",
             "amount": 2
@@ -9291,7 +9304,6 @@
                     "neutral"
                 ],
                 "icons": "II",
-                "illustration": "./images/xx/Purchasable Science Cards/3_Germanium_Detector-1.png",
                 "illustration_scale": 2.04,
                 "illustration_pan_x": 31.0,
                 "illustration_pan_y": 81.0,
@@ -9299,8 +9311,9 @@
                 "slots": [
                     "hand"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "6"
+                "collection_icon": "<image color=\"inverted\" src=\"C:/Users/jbalota/Downloads/return_to_curtain_call (1).svg\">",
+                "collection_number": "11",
+                "illustration": "./images/xx/Purchasable Science Cards/3_Germanium_Detector-1.png"
             },
             "back": {
                 "type": "player"
@@ -9327,7 +9340,7 @@
                 "illustration_pan_x": -214.0,
                 "illustration_pan_y": 231.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "8"
+                "collection_number": "13"
             },
             "back": {
                 "type": "player"
@@ -9353,7 +9366,7 @@
                 "icons": "CC",
                 "illustration": "./images/nuclearPowerBank.jpg",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "10"
+                "collection_number": "15"
             },
             "back": {
                 "type": "player"
@@ -9379,7 +9392,7 @@
                 "icons": "Q",
                 "illustration": "./images/edited_images/machineLearningAlgorithm.jpg",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "9"
+                "collection_number": "14"
             },
             "back": {
                 "type": "player"
@@ -9407,7 +9420,7 @@
                 "illustration_pan_x": 50.0,
                 "illustration_pan_y": 80.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "12"
+                "collection_number": "17"
             },
             "back": {
                 "type": "player"
@@ -9439,7 +9452,7 @@
                     "hand"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "14"
+                "collection_number": "19"
             },
             "back": {
                 "type": "player"
@@ -9465,7 +9478,7 @@
                 "illustration": "./images/scienceOverMysticism.png",
                 "illustration_pan_x": 0.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "13"
+                "collection_number": "18"
             },
             "back": {
                 "type": "player"
@@ -9492,7 +9505,7 @@
                 "illustration_pan_y": 146.0,
                 "illustration_scale": 1.62,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "11"
+                "collection_number": "16"
             },
             "back": {
                 "type": "player"
@@ -9523,7 +9536,7 @@
                     "hand"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "15"
+                "collection_number": "20"
             },
             "back": {
                 "type": "player"
@@ -9551,7 +9564,7 @@
                 "illustration_pan_x": -250.0,
                 "illustration_pan_y": -1.0,
                 "illustration_scale": 1.16,
-                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "3"
             },
             "back": {
@@ -9578,7 +9591,7 @@
                 "illustration_pan_x": -27.0,
                 "illustration_pan_y": 15.0,
                 "illustrator": "Illus. Micah Epstein",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "2"
             },
             "back": {
@@ -9608,7 +9621,7 @@
                 "illustration_pan_y": 288.0,
                 "illustration_scale": 1.16,
                 "illustrator": "Illus. Cristi Balanescu",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "1"
             },
             "back": {
@@ -9656,8 +9669,8 @@
             "front": {
                 "type": "story",
                 "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos gl\u00e4nzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n\u201eDas James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das haupts\u00e4chlich f\u00fcr die Infrarotastronomie entwickelt wurde. Es ist das gr\u00f6\u00dfte optische Teleskop im Weltraum, und seine hohe Infrarotaufl\u00f6sung und Empfindlichkeit machen es m\u00f6glich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass f\u00fcr das Hubble-Weltraumteleskop sind. Dadurch erm\u00f6glicht es eine gro\u00dfe Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosph\u00e4ren potenziell bewohnbarer Exoplaneten.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <t>Wissenschaft</t>-<br>Karte im Spiel kontrolliert oder besitzt, h\u00e4nge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler d\u00fcrfen den Ort mit dieser Verst\u00e4rkung behandeln, als ob sein aufgedrucktes Textfeld leer w\u00e4re.",
-                "collection_icon": "<image src=\"./images/science.png\">",
-                "collection_number": "1"
+                "collection_icon": "<image src=\"C:/Users/jbalota/Downloads/dm_atom.svg\">",
+                "collection_number": "6"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9674,7 +9687,8 @@
             "encounter_number": "1",
             "project_number": 304,
             "id": "4d23ab1f-efad-4620-ba1c-b4b84acb2fdb",
-            "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4"
+            "encounter_set": "33387e63-1376-4315-90ca-b3480de1dce4",
+            "enumerated": "manual"
         },
         {
             "name": "Voyage Beyond Space",
@@ -9682,7 +9696,7 @@
                 "type": "story",
                 "text": "<blockquote>Du kannst ein leises piependes Ger\u00e4usch aus den Weiten des Alls h\u00f6ren.\n\u201eVoyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das \u00e4u\u00dfere Sonnensystem und den interstellaren Raum jenseits der Heliosph\u00e4re der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgepr\u00e4gten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 f\u00fcnf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel.",
                 "collection_icon": "<image src=\"./images/science.png\">",
-                "collection_number": "4"
+                "collection_number": "9"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9708,7 +9722,7 @@
                 "type": "story",
                 "text": "<blockquote>Du findest eine gl\u00e4serne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enth\u00e4lt - einen alten Marsrover.\n\u201eCuriosity ist ein automobilgro\u00dfer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen z\u00e4hlen die Untersuchung des Klimas und der Geologie auf dem Mars, die Pr\u00fcfung, ob Gale jemals g\u00fcnstige Bedingungen f\u00fcr mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einsch\u00e4tzung der Bewohnbarkeit des Planeten zur Vorbereitung sp\u00e4terer bemannter Missionen.\u201c\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel.",
                 "collection_icon": "<image src=\"./images/science.png\">",
-                "collection_number": "2"
+                "collection_number": "7"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9734,7 +9748,7 @@
                 "type": "story",
                 "text": "<blockquote>Die Oberfl\u00e4che der Erde ist nur noch ein zerst\u00f6rtes \u00d6dland voller abscheulicher Wesen und unaussprechlicher Sch\u00f6pfungen. Dein Sensor empf\u00e4ngt jedoch ein leises Hoffnungsfl\u00fcstern aus den Tr\u00fcmmern.\nW\u00e4hrend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Gro\u00dfen Alten durchlebte, haben die Menschen zusammengearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergr\u00fcnden. Was sind Neutrinos? K\u00f6nnen wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kr\u00e4fte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte f\u00fchrten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die \u00fcber ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erh\u00e4lt f\u00fcr jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise f\u00fcr jeden Ermittler.)\nEntferne <name> aus dem Spiel.",
                 "collection_icon": "<image src=\"./images/science.png\">",
-                "collection_number": "3"
+                "collection_number": "8"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -9771,7 +9785,7 @@
                 "illustrator": "Illus. Borja Pindado",
                 "illustration_pan_y": 900.0,
                 "subtitle": "SCHW\u00c4CHE",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "4"
             },
             "back": {
@@ -9794,7 +9808,7 @@
                 "illustration": "./images/edited_images/nele-diel-dreamworld.jpg",
                 "illustration_pan_x": -200.0,
                 "illustrator": "Illus. Nele Diel",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/Flask.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "5"
             },
             "back": {
@@ -9829,7 +9843,7 @@
                     "hand"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "7"
+                "collection_number": "12"
             },
             "back": {
                 "type": "player"
@@ -9858,7 +9872,7 @@
                 "level": "None",
                 "illustration_pan_x": -100.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
-                "collection_number": "5"
+                "collection_number": "10"
             },
             "back": {
                 "type": "fullart_scanning",
@@ -10319,7 +10333,7 @@
             "id": "80778fce-43f6-4d22-8010-a2e1045c6bdc",
             "amount": 3,
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "attack": "1",
                 "health": "1",
                 "evade": "1",
@@ -10330,7 +10344,9 @@
                 "illustrator": "Illus. Bill Thompson",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_2.png",
                 "collection_number": "159",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">"
+                "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": 89.0
             },
             "back": {
                 "type": "encounter"
@@ -10453,7 +10469,7 @@
             "name": "Beast of Aldebaran",
             "id": "45bf004e-199d-457d-be78-9b6b453b6671",
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "traits": "Monster. Elite.",
                 "text": "<size 36>Gewaltig.\nSolange Schaden und Horror durch den Angriff der Bestie von Aldebaran zugewiesen wird, musst du so viel Schaden und Horror wie m\u00f6glich einer einzigen Karte zuweisen, bevor du einer anderen Karte Schaden und Horror zuweisen kannst.",
                 "attack": "3",
@@ -10466,7 +10482,9 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus.  Chun Lo",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/carcosa.svg\">",
-                "collection_number": "88"
+                "collection_number": "88",
+                "illustration_pan_x": 59.0,
+                "illustration_pan_y": 279.0
             },
             "back": {
                 "type": "encounter"
@@ -10479,7 +10497,7 @@
             "name": "Spawn of Hali",
             "id": "f44ae850-4e88-4214-ab8d-fa51df433895",
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "traits": "Monster.",
                 "text": "<size 40><prey> Meister Horror.\nZur\u00fcckschlagen.\n<for> Nachdem du Brut von Hali erfolgreich um 2 oder weniger entkommen bist: Nimm 1 Horror.",
                 "attack": "4",
@@ -10490,7 +10508,9 @@
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_3.png",
                 "illustrator": "Illus.  Sedone Thongvilay",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/carcosa.svg\">",
-                "collection_number": "89"
+                "collection_number": "89",
+                "illustration_pan_x": -13.0,
+                "illustration_pan_y": 266.0
             },
             "back": {
                 "type": "encounter"
@@ -10504,7 +10524,7 @@
             "id": "f704b376-2a03-4893-aedc-75a9ddeb9069",
             "amount": 2,
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "attack": "4",
                 "health": "4",
                 "evade": "3",
@@ -10516,7 +10536,9 @@
                 "illustrator": "Illus. Chun Lo",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_3.png",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/core.svg\">",
-                "collection_number": "177"
+                "collection_number": "177",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": 533.0
             },
             "back": {
                 "type": "encounter"
@@ -10553,7 +10575,7 @@
             "id": "fdc52c25-fbf0-437b-a46d-bc152aaeb6d3",
             "amount": 1,
             "front": {
-                "type": "fullart_enemy",
+                "type": "enemy",
                 "subtitle": "Bote von Aldebaran",
                 "traits": "Monster. Elite.",
                 "attack": "4",
@@ -10564,12 +10586,13 @@
                 "text": "<prey> Niedrigster <willpower>-Wert.\nGewaltig. J\u00e4ger. Zur\u00fcckschlagen.\n<for> Am Ende der Gegnerphase: Jeder Ermittler am Ort des K\u00f6niglichen Sendboten oder einem verbundenen Ort nimmt 1 Horror.",
                 "illustration": "./images/Replacements Carcosa and Core/ahc11-060 Royal Emissary - Sam Lamont.jpg",
                 "illustrator": "Illus. Sam Lamont",
-                "illustration_pan_x": -590.0,
+                "illustration_pan_x": -548.0,
                 "illustration_scale": 1.2,
                 "name": "<unique><name>",
                 "collection_total": "20/20",
                 "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
-                "collection_number": "60"
+                "collection_number": "60",
+                "illustration_pan_y": 630.0
             },
             "back": {
                 "type": "encounter"
@@ -10688,7 +10711,9 @@
     ],
     "id": "31e30d69-db33-4e31-9759-85c573332b18",
     "meta": {
-        "dirty": []
+        "dirty": [],
+        "auto_hyphenate": false,
+        "french_punctuation": true
     },
     "icon": "./images/Dark Matter.png",
     "translations": {
