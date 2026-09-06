@@ -4289,7 +4289,7 @@
                 "type": "enemy",
                 "title": "<unique><name>",
                 "traits": "Abomination. Elite.",
-                "text": "Massive. Hunter. Alert.\nThe Entity gets +2<pers> health for each facedown card attached to it.\nDamage and horror dealt by The Entity must be assigned to <t>Ally</t> assets first.",
+                "text": "Massive. Hunter. Alert.\nThe Entity gets +2<per_large> health for each facedown card attached to it.\nDamage and horror dealt by The Entity must be assigned to <t>Ally</t> assets first.",
                 "health": "3",
                 "evade": "3",
                 "combat": "4",
@@ -5906,7 +5906,7 @@
             "front": {
                 "type": "location",
                 "traits": "Memory. Simulation.",
-                "text": "<for> When you reveal a <culs> token during a skill test at this location: Take 1 damage.",
+                "text": "<for> When you reveal a <cultist> token during a skill test at this location: Take 1 damage.",
                 "flavor_text": "Their last real memory was just another monotonous day at work -- the dangerous labor of collecting raw asteroidal material, a few tethers away from drifting into space.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/edited_images/86443b70fc08d2aa14468e6d417b75fa.jpg",
