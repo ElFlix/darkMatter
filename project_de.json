@@ -286,6 +286,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev>  Bringe <name> in deiner Bedrohungszone ins Spiel.\nAls zusätzliche Kosten um zu scannen musst du Karten oben vom Begegnungsdeck ablegen, bis eine <i><b>KI</b></i>-Karte abgelegt wurde. Ziehe jene Karte.\n<for>  Am Ende deines Zuges: Lege eine <agi>-<br>Probe (3) ab. Falls die Probe gelingt, lege <name> ab.\n",
                 "traits": "KI."
             }
@@ -295,6 +296,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem du einen oder mehrere Orte umgedreht hast: Nimm 1 Horror.\n<act>: Lege eine <wil>- oder <agi>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
                 "traits": "Schrecken."
             }
@@ -380,6 +382,9 @@
             "front": {
                 "name": "<name>",
                 "text": "<blockquote>Du findest eine gläserne Vitrine, die eines der wertvollsten Relikte der Mars-Kolonien enthält - einen alten Marsrover.\n„Curiosity ist ein automobilgroßer Marsrover, der entwickelt wurde, um als Teil der Mars Science Laboratoty (MSL)-Mission der NASA den Gale-Krater auf dem Mars zu erkunden. Curiosity wurde im Jahr 2011 von der CCAFS am Cape Canaveral ins All geschossen und landete 2012 im Aeolis Palus innerhalb des Gale-Kraters auf dem Mars. Zu seinen Missionszielen zählen die Untersuchung des Klimas und der Geologie auf dem Mars, die Prüfung, ob Gale jemals günstige Bedingungen für mikrobielles Leben bot (und welche Rolle Wasser bei der Enstehung solchen Lebens spielt) und die Einschätzung der Bewohnbarkeit des Planeten zur Vorbereitung späterer bemannter Missionen.“\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler zieht für jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Karte. (Max. 3 Karten für jeden Ermittler.)\nEntferne <name> aus dem Spiel."
+            },
+            "back": {
+                "illustration": "./images/scanningBack.png"
             }
         },
         "0d9fe071-e5ca-404d-8748-72ce40dafa6d": {
@@ -640,6 +645,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<free>: Die Ermittler an diesem Ort streichen als Gruppe 1<per_large> ihrer „Erinnerungen“ durch: Drehe einen beliebigen <t>Höhle</t>- oder <t>Carcosa</t>-Ort auf seine andere Seite.",
                 "traits": "Höhle."
             },
@@ -684,8 +690,12 @@
                 "flavor_text": "Mein Vater wird nicht so höflich und gnädig zu euch sein.",
                 "subtitle": "Kronprinzessin von Carcosa",
                 "text": "Gewaltig. Zurückschlagen.\nTassilda bekommt +1<per_large> Ausdauer für jeden Zählstrich unter „Drohendes Unheil“ im Kampagnenlogbuch.\n<for> Nachdem Verderben auf eine Karte platziert wurde: Platziere für jeden platzierten Verderbensmarker 1 Horror aus dem Markervorrat auf Tassildas Ort und jeden verbundenen Ort.",
+                "text_region": {
+                    "height": 518,
+                    "inherit": true
+                },
                 "traits": "Großer Alter. Elite.",
-                "victory": "Victory 1."
+                "victory": "Sieg 1."
             }
         },
         "1cf2794b-3a78-4b5b-a2ae-70c83e182aac": {
@@ -782,6 +792,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Tische und Stühle schweben durch den ganzen Raum. Die Simulation wurde beschädigt.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<reaction> Nachdem die Eingangshalle mit einem anderen Ort getauscht wurde, falls du dich in der Eingangshalle befindest: Ziehe 1 Karte und erhalte 1 Ressource. (Nur einmal pro Runde für die ganze Gruppe.)",
                 "traits": "Schule."
             },
@@ -831,8 +842,9 @@
                 "text": "<act> Falls sich keine Hinweise an deinem Ort befinden: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das Symbol deines Ortes besitzt, und ziehe sie. Mische das Scan-Deck.\n\n"
             },
             "back": {
-                "name": "<unique> ULR-A21 „Demhe“",
+                "name": "ULR-A21 „Demhe“",
                 "flavor_text": "<font \"./fonts/AgencyFB Bold Italic.ttf\">„ZIEL ERFASST“",
+                "name_unique": "<unique>",
                 "subtitle": "Unbemannter Laderoboter",
                 "text": "<spawn> Frachtraum.\nJäger.\nSolange ULR-A21 „Demhe“ sich bewegt oder Ermittler in einen Kampf verwickelt, ignoriert er alle Ermittler, in deren Bedrohungszone sich keine <t>KI</t>-Karte befindet.",
                 "traits": "KI. Maschine. Elite.",
@@ -952,8 +964,9 @@
         "306a5239-6824-4071-b2c3-b4caa0145d6d": {
             "name": "Das Wesen",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "text": "Das Wesen bekommt +2<per_large> Ausdauer für jede daran angehängte verdeckte Karte.\nSchaden und Horror, der durch die Angriffe dieses Gegners zugefügt wird, muss <t>Verbündeter</t>-<br>Vorteilskarten zugewiesen werden, falls möglich.",
                 "traits": "Abscheulichkeit. Elite.",
                 "victory": "Sieg 2."
@@ -964,6 +977,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Hier gibt es eine Menge Geräte und Kontrollelemente. Du wirst einige Zeit brauchen, bis du sie lesen kannst.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for> Nachdem du an diesem Ort gescannt hast, falls sich keine Hinweise an diesem Ort befinden: Platziere 1<per_large> Hinweise aus dem Markervorrat auf diesen Ort.",
                 "traits": "Tatterdemalion. Zugangspunkt."
             },
@@ -1244,7 +1258,7 @@
         },
         "3f11932a-fe0c-4099-ac12-185ef2fb096f": {
             "front": {
-                "flavor_text": "Ein gigantisches außerirdisches Wesen, das die Mi-Go über Jahrhunderte auf dem Mond gezüchtet hatten, um die Rückkehr der Großen Alten zu verzögern. Als die irdischen Kultisten es befreiten, veränderten sie die Umlaufbahn des Mondes – und erweckten so die Großen Alten.\n\n",
+                "flavor_text": "Ein gigantisches außerirdisches Wesen, das die Mi-Go über Jahrhunderte auf dem Mond gezüchtet hatten, um die Rückkehr der Großen Alten zu verzögern. Als die irdischen Kultisten es befreiten, veränderten sie die Umlaufbahn des Mondes – und erweckten so die Großen Alten.",
                 "subtitle": "Der Fehler, durch den die Welt endete",
                 "text": "Gewaltig.\n<for> Nachdem du Domaag T’eel besiegt hast: Du erhältst 3<per_large> Hinweise aus dem Markervorrat.",
                 "traits": "Großer Alter. Abscheulichkeit. Elite.",
@@ -1447,6 +1461,7 @@
             "name": "Raumanzug",
             "front": {
                 "name": "<name>",
+                "cost": "---",
                 "flavor_text": "",
                 "text": "<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<act><act> Falls du dich an einem <t>Zugangspunkt</t>-Ort befindest: Bewege dich an einen anderen <t>Zugangspunkt</t>-Ort. <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_star.svg\"></size>",
                 "traits": "Gegenstand. Rüstung."
@@ -1523,6 +1538,9 @@
             "front": {
                 "name": "<name>",
                 "text": "<blockquote>Du findest ein Objekt, das aus mehreren makellos glänzenden Sechsecken besteht. Es ist ein altes Teleskop, mit dem die Grenzen des bekannten Universums beobachtet wurden.\n„Das James Webb-Weltraumteleskop (JWST) ist ein Weltraumteleskop, das hauptsächlich für die Infrarotastronomie entwickelt wurde. Es ist das größte optische Teleskop im Weltraum, und seine hohe Infrarotauflösung und Empfindlichkeit machen es möglich, Objekte zu sehen, die zu alt, zu weit entfernt oder zu blass für das Hubble-Weltraumteleskop sind. Dadurch ermöglicht es eine große Bandbreite an Untersuchungen auf den Gebieten der Astronomie und Kosmologie, wie z.B. die Beobachtung der ersten Sterne und der Entstehung der ersten Galaxien, und die genaue Beschreibung der Atmosphären potenziell bewohnbarer Exoplaneten.“\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Falls ein Ermittler an deinem Ort eine <t>Wissenschaft</t>-<br>Karte im Spiel kontrolliert oder besitzt, hänge <name> an einen beliebigen Ort an. Entferne diese Karte ansonsten aus dem Spiel. Ermittler dürfen den Ort mit dieser Verstärkung behandeln, als ob sein aufgedrucktes Textfeld leer wäre."
+            },
+            "back": {
+                "illustration": "./images/scanningBack.png"
             }
         },
         "4d3bc095-eabe-4577-bf82-23034a8bc641": {
@@ -1549,7 +1567,7 @@
                 "text": "<obj> Nachdem ein Ermittler im Kälteschlafquartier einen Scan nach dem unten stehenden Symbol durchgeführt hat, darfst du vorrücken (egal, ob der Scan erfolgreich war oder nicht).\n\n<center><size 120><image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size>\n\n<left><i>(Tipp: Vergiss nicht, vorher so viele Erinnerungen wie möglich zu sammeln.)</i>"
             },
             "back": {
-                "name": "<size 75> Durch die Tore der virtuellen Traumlande",
+                "name": " Durch die Tore der virtuellen Traumlande",
                 "flavor_text": "Indem du die Kälteschlafkapseln mit dem Hauptcomputer verbindest, kannst du dein bald wieder träumendes Selbst in die gemeinsamen Träume von 2C-OES187 hochladen. Du legst dich erneut in deinen Sarg und aktivierst die Schlafsequenz der Maschine…</i>",
                 "text": "(<resolution><b>A1</b>)"
             }
@@ -1685,6 +1703,9 @@
             "front": {
                 "name": "<name>",
                 "text": "<blockquote>Die Oberfläche der Erde ist nur noch ein zerstörtes Ödland voller abscheulicher Wesen und unaussprechlicher Schöpfungen. Dein Sensor empfängt jedoch ein leises Hoffnungsflüstern aus den Trümmern.\nWährend der vielen Jahre des Wohlstands, die die Menschheit vor dem Erscheinen der Großen Alten durchlebte, haben die Menschen zusammengearbeitet und gemeinsam mehrere unterirdische Labore gebaut, um die Wahrheiten des Universums zu ergründen. Was sind Neutrinos? Können wir die ungreifbare Dunkle Materie finden? Was sind die grundlegenden Kräfte, die das Universum zusammenhalten?\nDiese gemeinsamen Forschungsprojekte führten zu neuen Entdeckungen und haben das Wissen der ganzen Menschheit erweitert. Trotz der Schrecken, die über ihnen lauern, senden die Labore dieses Wissen immer noch ins All.</blockquote>\nJeder Ermittler erhält für jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Hinweis aus dem Markervorrat. (Max. 2 Hinweise für jeden Ermittler.)\nEntferne <name> aus dem Spiel."
+            },
+            "back": {
+                "illustration": "./images/scanningBack.png"
             }
         },
         "56770f1c-ffbe-45a3-ba42-5f06769308c7": {
@@ -1819,6 +1840,9 @@
                 "subtitle": "Die erste Kosmonautin",
                 "text": "<rev> Bringe diese Karte unter der Kontrolle eines Ermittlers an deinem Ort ins Spiel.\nDu bekommst +2 geistige Gesundheit.",
                 "traits": "Verbündeter. Kreatur. Wissenschaft."
+            },
+            "back": {
+                "illustration": "./images/scanningBack.png"
             }
         },
         "5a1e8bf5-dc3a-4159-88d3-6369a466858c": {
@@ -1849,6 +1873,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Wer bin ich?",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Lege eine <agi>-Probe (6) ab. Diese Probe bekommt -1 Schwierigkeit für jede deiner „Erinnerungen“. Falls die Probe misslingt, nimmst du entweder 2 Schaden oder verlierst 2 Ressourcen.",
                 "traits": "Virtuell. Schrecken."
             }
@@ -2042,7 +2067,7 @@
                         ""
                     ]
                 ],
-                "flavor_text": "\nDie ruhige und findige Kate arbeitete als Forscherin in der Miskatonic-Universität. Sie und ihr Kollege Professor Young waren Pioniere auf dem Gebiet der Dimensions-<br>forschung. Eines Tages öffneten sie jedoch bei einem Laborunfall ein Portal in eine andere Dimension. Das Wesen, das durch dieses Portal kam, riss Professor Young in Stücke. Kate überlebte, aber die Erinnerungen an diesen Tag verfolgen sie bis heute. Deswegen ist sie fest entschlossen, zu verhindern, dass so etwas jemals wieder geschieht.",
+                "flavor_text": "\nDie ruhige und findige Kate arbeitete als Forscherin in der Miskatonic-Universität. Sie und ihr Kollege Professor Young waren Pioniere auf dem Gebiet der Dimensionsforschung. Eines Tages öffneten sie jedoch bei einem Laborunfall ein Portal in eine andere Dimension. Das Wesen, das durch dieses Portal kam, riss Professor Young in Stücke. Kate überlebte, aber die Erinnerungen an diesen Tag verfolgen sie bis heute. Deswegen ist sie fest entschlossen, zu verhindern, dass so etwas jemals wieder geschieht.",
                 "text": "<b>Deckgröße:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Karten mit dem Wort „ermitteln“ im Kartentext Stufe 0-5, Neutrale Karten Stufe 0-5, <t>Wissenschaft</t>-Karten Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße)<b>:</b> Fluxstabilisator, Dimensions-<br>forschung, Dimensionsspalt, 1 zufällige <br> Grundschwäche."
             }
         },
@@ -2135,8 +2160,9 @@
         "6eaf6f8c-b925-447a-a033-4f0837924141": {
             "name": "LR-02 „Hali“",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "text": "<for> Nachdem du LR-02 „Hali“ besiegt hast: <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das unten stehende Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n\n<center><size 120>  <image src=\".\\images\\xx\\svg\\connection_clover.svg\"></size>",
                 "traits": "Humanoid. KI. Maschine.",
                 "victory": "Sieg 1."
@@ -2257,6 +2283,7 @@
             "back": {
                 "name": "Undefinierter Raum",
                 "flavor_text": "<valign>In den leeren Gängen hallt jedes deiner Geräusche wider und kündigt den Schrecken, die hier lauern, dein Kommen an. Du bist in diesem riesigen Puzzle verloren.",
+                "illustration_scale": 1.032,
                 "text": "",
                 "traits": "Schule."
             }
@@ -2539,6 +2566,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Stalagmiten und Stalaktiten ziehen sich durch diese riesige und sehr gefährliche unterirdische Höhle.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for>: Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 Schaden.",
                 "traits": "Höhle."
             },
@@ -2627,6 +2655,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Wo die Kultisten verschwanden",
                 "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free>: Falls sich keine <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzugänglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte „Die verlorene Expedition“. (Max. einmal pro Spiel.)",
                 "traits": "Höhle.",
@@ -2650,8 +2679,9 @@
         "9b092a0a-2a5b-4b60-b2db-e3ba27225b78": {
             "name": "2C-OES187",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "subtitle": "25% funktionsfähig",
                 "text": "Dauerhaft.\n<reaction> Zu Beginn der Runde: Wähle einen Ermittler. Der gewählte Ermittler darf in seinem Zug in dieser Runde eine zusätzliche Aktion nehmen, die nur für <b>Scannen</b>-<br>Fähigkeiten verwendet werden kann.",
                 "traits": "KI."
@@ -2681,8 +2711,9 @@
         "9c1ffe41-6de8-4bd6-8b56-7fff72b473dd": {
             "name": "Virtueller Zugangsschlüssel",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "„Im Inneren lag in ein vergilbtes Pergament eingewickelt ein großer mit rätselhaften Arabesken bedeckter Schlüssel aus angelaufenem Silber. Eine weitere Erklärung war jedoch nicht beigefügt.“\n<center>-H.P. Lovecraft, Der silberne Schlüssel</i> ",
+                "name_unique": "<unique>",
                 "subtitle": "<size 50>Schlüssel für die Pforte der Träume",
                 "text": "<reaction> Sobald dir Horror zugefügt wird, erschöpfe den virtuellen Zugangsschlüssel: Hebe 1 Horror davon auf.",
                 "traits": "Gegenstand. Glücksbringer. Relikt."
@@ -2709,8 +2740,9 @@
         "9d573e8e-e1fb-4241-9ee2-5a20a79a25cd": {
             "name": "2C-OES187",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "subtitle": "75% funktionsfähig",
                 "text": "Dauerhaft.\n<free>: Wähle einen Ermittler. Der gewählte Ermittler darf in seinem Zug in dieser Runde eine zusätzliche Aktion nehmen, die nur für <b>Scannen</b>-Fähigkeiten verwendet werden kann. (Nur einmal pro Runde.)\n<reaction> Nachdem einem Ermittler ein Scan misslungen ist: Jener Ermittler zieht 1 Karte oder erhält 1 Ressource.",
                 "traits": "KI."
@@ -2719,8 +2751,9 @@
         "9db6e367-faea-4c2e-8ada-b63e062324fb": {
             "name": "2C-OES187",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "subtitle": "50% funktionsfähig",
                 "text": "Dauerhaft.\n<free>: Wähle einen Ermittler. Der gewählte Ermittler darf in seinem Zug in dieser Runde eine zusätzliche Aktion nehmen, die nur für <b>Scannen</b>-Fähigkeiten verwendet werden kann. (Nur einmal pro Runde.)",
                 "traits": "KI."
@@ -2762,6 +2795,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Unnatürlich kalte Luft zieht durch den Hohlraum und lässt dich bis auf die Knochen frieren.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Der Schleierwert des Gefrorenen Hohlraums wird für jeden verbundenen <t>Höhle</t>-Ort um 1 gesenkt.",
                 "traits": "Höhle."
             },
@@ -2775,6 +2809,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<spawn> Beliebiger <t>Mars</t>-Ort.\nGewaltig.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: Füge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu erschöpfen.",
                 "traits": "Kreatur.",
                 "victory": "Sieg 1."
@@ -2834,6 +2869,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "X ist die Anzahl der verbundenen Orte.\n<act> Falls sich keine Hinweise an diesem Ort befinden: Tausche die <name> mit einem beliebigen anderen <t>Schule</t>-Ort und platziere 1<per_large> Hinweise aus dem Markervorrat auf die <name>.",
                 "traits": "Schule.",
                 "victory": "Sieg 1."
@@ -2897,7 +2933,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
-                "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein Ermittler eine beliebige Anzahl Hinweise an deinem Ort entdecken würde, platziere 1 Hinweis jenes Ermittlers auf deinen Ort: Jener Ermittler entdeckt stattdessen keine Hinweise. Lege diese Karte ab.\n<for> Wenn das Spiel endet oder du besiegt wirst, falls sich diese Karte auf deiner Hand befindet: Füge diese Karte dem Siegpunktestapel hinzu.\n\n",
+                "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte geheim deiner Hand hinzu.\n<reaction> Sobald ein Ermittler eine beliebige Anzahl Hinweise an deinem Ort entdecken würde, platziere 1 Hinweis jenes Ermittlers auf deinen Ort: Jener Ermittler entdeckt stattdessen keine Hinweise. Lege diese Karte ab.\n<for> Wenn das Spiel endet oder du besiegt wirst, falls sich diese Karte auf deiner Hand befindet: Füge diese Karte dem Siegpunktestapel hinzu.\n",
                 "traits": "Pakt.",
                 "victory": "Sieg 0."
             }
@@ -3023,8 +3059,9 @@
         "b19377ff-d3e8-41c0-ab37-3b7c1f00959a": {
             "name": "2C-OES187",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "subtitle": "100% funtkionsfähig",
                 "text": "Dauerhaft.\n<free>: Wähle einen Ermittler. Der gewählte Ermittler darf in seinem Zug in dieser Runde eine zusätzliche Aktion nehmen, die nur für <b>Scannen</b>-Fähigkeiten verwendet werden kann. (Nur einmal pro Runde.)\n<reaction> Nachdem ein Ermittler gescannt hat: Jener Ermittler zieht 1 Karte oder erhält 1 Ressource. (Nur einmal pro Runde.)",
                 "traits": "KI."
@@ -3129,6 +3166,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Am Ende deines Zuges: Nimm\n2 Schaden und drehe deinen Ort um. Lege <name> ab.\n<act> Gib 2 Ressourcen aus: Lege <name> ab.",
                 "traits": "Gefahr."
             }
@@ -3153,8 +3191,10 @@
         },
         "b981acd0-98a6-4076-a8ad-526be48a6056": {
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
+                "cost": "---",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "subtitle": "Informationsarchiv",
                 "text": "<free>: Wähle 3 Karten von deiner Hand und lege sie ab: Löse dich von jedem Gegner, der mit dir in einen Kampf verwickelt ist, und bewege dich an einen verbundenen Ort. Ermittler können diese Fähigkeit von jedem Ort auslösen."
             }
@@ -3162,8 +3202,9 @@
         "ba10d7c7-7d6a-4a75-9f9f-93dad2d7dabf": {
             "name": "JV-7 „Hyaden“",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "subtitle": "Künstlicher Co-Pilot",
                 "text": "Zurückhaltend. Alarmiert.\n<act>: <b>Verhandlung.</b> Lege eine <wil>-Probe (3) ab. Wenn die Probe misslingt, greift JV-7 „Hyaden“ dich an. Wenn die Probe gelingt, wähle eines der unten stehenden Symbole; <b>Scannen.</b> Durchsuche das Scan-Deck nach der obersten Karte, die das gewählte Symbol besitzt, und ziehe sie. Mische das Scan-Deck.\n\n<center><size 120>  <image src=\".\\images\\xx\\svg\\connection_clover.svg\"> <image src=\".\\images\\xx\\svg\\connection_t.svg\"></size>\n",
                 "traits": "KI. Maschine.",
@@ -3250,6 +3291,9 @@
             "front": {
                 "name": "<name>",
                 "text": "<blockquote>Du kannst ein leises piependes Geräusch aus den Weiten des Alls hören.\n„Voyager 1 ist eine Raumsonde, die am 5. September 1977 als Teil des Voyager-Programms der NASA gestartet wurde, um das äußere Sonnensystem und den interstellaren Raum jenseits der Heliosphäre der Sonne zu erforschen. Voyager 1 entdeckte einen schwach ausgeprägten Planetenring um den Jupiter und zwei neue Jupitermonde: Thebe und Metis. Am Saturn entdeckte Voyager 1 fünf neue Monde und einen neuen Ring, der als G-Ring bezeichnet wurde. Voyager 1 ist das erste von Menschen gebaute Objekt, das in den interstellaren Raum eintrat, und ist auch heute noch das menschen-gemachte Objekt, das am weitesten von der Erde entfernt ist.“\n<right>-Maja, Informationsarchiv</blockquote>\n\n<left>Jeder Ermittler erhält für jede <t>Wissenschaft</t>-Karte im Spiel, die er kontrolliert oder besitzt, 1 Ressource. Entferne <name> aus dem Spiel."
+            },
+            "back": {
+                "illustration": "./images/scanningBack.png"
             }
         },
         "c6bd0367-6c8b-4f14-9138-f602c120ac5a": {
@@ -3463,6 +3507,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Dieses verlassene Forschungsschiff treibt ziellos am Rand des Sonnensystems. Es gibt keine Anzeichen für Aktivitäten jeglicher Art an Bord.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diesen Ort ins Spiel.\nAls zusätzliche Kosten, um an diesem Ort zu scannen, musst du die oberste Karte des Begegnungsdecks<br> ziehen.",
                 "traits": "Raumschiff."
             },
@@ -3651,8 +3696,8 @@
         "e4a38217-a26b-4e81-bad4-174eddbb3c63": {
             "name": "Anachronismus",
             "front": {
-                "name": "Anachronisme",
                 "flavor_text": "\n„Granny Orne? Was machst du im Weltraum?“",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Lege eine <wil>-Probe (3) ab. Für jeden Punkt, um den die Probe misslingt, musst du entweder 1 Horror nehmen oder eine Nicht-<br>Storyvorteilskarte, die du kontrollierst, ablegen.",
                 "traits": "Wahnsinn. Paradox."
             }
@@ -3671,8 +3716,9 @@
         "e68519a0-f91b-4653-b81f-063af4723d68": {
             "name": "Gedankenschatten",
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "flavor_text": "",
+                "name_unique": "<unique>",
                 "text": "<spawn> Beliebiger leerer Ort.\nZurückschlagen.\nX ist der Schleierwert vom Ort dieses Gegners.\n<for> Nachdem der Ort dieses Gegners mit einem anderen Ort getauscht wurde: Bewege diesen Gegner einmal in Richtung des nächst-<br>gelegenen Ermittlers.",
                 "traits": "Virtuell. Abscheulichkeit.",
                 "victory": "Sieg 1."
@@ -3713,7 +3759,8 @@
                 "text": "Als zusätzliche Kosten, um in der Kalten Ödnis zu scannen, musst du entweder 2 Ressourcen ausgeben, oder 2 Karten von deiner Hand wählen und ablegen."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "illustration": "./images//scanningBack.png"
             }
         },
         "eb2c5619-1424-4900-9971-6320e8258b4e": {
@@ -3785,6 +3832,7 @@
             "name": "Strahlentabletten",
             "front": {
                 "name": "<name>",
+                "cost": "---",
                 "flavor_text": "",
                 "text": "Anwendungen (3 Vorräte).\n<rev> Du darfst diese Karte unter der Kontrolle eines beliebigen Ermittlers ins Spiel bringen.\n<free> Gib 1 Vorrat aus: Du bekommst bis zum Ende der Runde +1 <com> und +1 <agi>.",
                 "traits": "Gegenstand. Medizin. Wissenschaft."
@@ -3974,6 +4022,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte geheim deiner Hand hinzu.\n<for> Am Ende deines Zuges, falls sich mindestens 1 <t>KI</t>-Karte in deiner Bedrohungszone befindet: Nimm 2 Horror und lege <name> ab.\n<act><act>: Lege <name> ab.",
                 "traits": "Schrecken."
             }
@@ -4056,7 +4105,93 @@
             "name": "Die Tatterdemalion"
         },
         "a3193336-a0df-450c-b50e-0d5af119f3b9": {
-            "name": "Sternenschauer"
+            "name": "Sternenschauer",
+            "meta": {
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "2317b510-5787-4297-8953-14cdeda2583b",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "3018031a-384b-46f5-952f-46d56e42138e_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            },
+                            "3234eba0-46a2-4ff1-ac71-9cdd40ccdd7d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "4985bec1-5032-4731-b55b-6a08174ed407_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "4d3bc095-eabe-4577-bf82-23034a8bc641_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "533eefb3-2098-4cc2-a98c-4b9183ba81e4_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "610801c6-7075-410c-a18c-28c287c94926_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "71d0e386-6a17-4a13-9afd-1df16e493ec3_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "7cc8c63e-cef0-4a24-bae0-7864eaa91700_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "9f3e4397-739b-4fad-974d-47c05a23e831_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "d29a066a-3564-4ede-a33b-584a5add5b80_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "d6614795-0cac-434b-936a-e41fb0ad9181_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "d6a3bd75-54ed-41aa-bddb-87182374f603_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "ac1147f3-f651-4436-b2e1-830ad8fe2d91": {
             "name": "Zukunfstechnologie"
@@ -4065,7 +4200,88 @@
             "name": "Rattenschwarm"
         },
         "cd6a55bc-745a-4db8-a9c1-0bdf14b6c56b": {
-            "name": "Fremdartige Monde"
+            "name": "Fremdartige Monde",
+            "meta": {
+                "location_active_layout": "6c1368f1-3cbf-4e3a-a8a5-2608f00af7be",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "6c1368f1-3cbf-4e3a-a8a5-2608f00af7be",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "1427865f-13b7-4ec7-8811-93d476ac7b7b_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "14f666dd-2842-404c-a87e-abbbdfe73cbd_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "16748f43-e717-43ae-970c-d3e10baa582a_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "45d9c5b3-2e0e-4a88-a28b-344f2bf64442_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "64936fc4-c644-4f4e-8af3-f6bc3fc8f213_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "7f1c2df9-6c0b-48e9-86ae-cdea8f2f3dca_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "9b5664da-4cc3-410f-b806-f2a458f2cd62_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "a3bdab97-004c-44ac-b1b5-a88b65be909a_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "a4978ad4-7d96-489e-b2b6-e22a9f5e13e2_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "ad62fe1c-0afc-43ee-94ff-9e5ff0f7f419_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            },
+                            "b07b6acf-7762-457e-96da-6a3e9c2be7b7_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7": {
             "name": "Unerträgliche Wahnvorstellungen"

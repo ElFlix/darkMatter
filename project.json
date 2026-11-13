@@ -5838,7 +5838,7 @@
                 "clues": "<dash>",
                 "flavor_text": "A man in an elegant black suit awaits you in the halls behind the stage, his face covered by a pale mask. You instantly recognize the actor who played the role of the Stranger -- one of the characters from The King in Yellow. He turns and disappears through an open doorway, as if taunting you to follow.",
                 "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
-                "illustration_pan_x": -258.0,
+                "illustration_pan_x": -285.0,
                 "illustration_pan_y": -206.0,
                 "illustration_scale": 2.8143,
                 "index": "2a",
@@ -7196,7 +7196,7 @@
             "front": {
                 "doom": "12",
                 "flavor_text": "The sun is getting hotter every day... There might not be enough time to save everyone. K2-PS187 has preemptively plotted the trajectories to the three major population centers within the solar system, but you will have to decide which ones to prioritise saving.",
-                "illustration": "./images/edited_images/sun-space-hd-wallpaper.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "illustration_pan_x": -625.0,
                 "illustration_pan_y": -72.0,
                 "illustration_scale": 1.35,
@@ -7231,7 +7231,7 @@
             "front": {
                 "doom": "5",
                 "flavor_text": "Solar flares and radioactive emissions have been surging in frequency beyond expected fluctuations. Despite the increasingly dangerous environment, you carry on with your quest to save the future of humanity. ",
-                "illustration": "./images/edited_images/sun.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "illustration_pan_x": -625.0,
                 "illustration_pan_y": -72.0,
                 "illustration_scale": 1.35,
@@ -7287,7 +7287,7 @@
             "front": {
                 "doom": "<dash>",
                 "flavor_text": "Forcefully removing Tassilda from the throne only delayed the imminent supernova and brought her attention to the colonies. She has taken the destruction of the solar system into her own hands. You must stop her before her madness consumes all!",
-                "illustration": "./images/edited_images/sun.jpg",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "illustration_pan_x": -625.0,
                 "illustration_pan_y": -72.0,
                 "illustration_scale": 1.35,
