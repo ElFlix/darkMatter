@@ -3,7 +3,8 @@
     "id": "23c19b61-2109-40c0-925e-b475ddb73564",
     "icon": "./images/Dark Matter.png",
     "meta": {
-        "dirty": []
+        "dirty": [],
+        "french_punctuation": true
     },
     "cards": [
         {
@@ -132,9 +133,9 @@
                 "health": "3<per>",
                 "horror": 2,
                 "illustration": "./images/edited_images/hastur2 chase norton.jpg",
-                "illustration_pan_x": -143.0,
-                "illustration_pan_y": 1036,
-                "illustration_scale": 1.4792,
+                "illustration_pan_x": -236.0,
+                "illustration_pan_y": 969.0,
+                "illustration_scale": 1.598,
                 "illustrator": "Illus. Chase Norton",
                 "level": "None",
                 "text": "Massive.\n<rev> Spawn the Feaster from Afar at your location. \n<for> After The Feaster from Afar attacks you: Heal all damage from it and place it at the bottom of the scanning deck.",
@@ -1198,7 +1199,7 @@
                 ],
                 "flavor_text": "An endless maze of cramped and dirty tunnels.",
                 "illustration": "./images/edited_images/vent - saratarr2.jpg",
-                "illustration_pan_x": 14.0,
+                "illustration_pan_x": 22.0,
                 "illustration_pan_y": -15.0,
                 "illustration_scale": 0.992,
                 "illustrator": "Illus.  saratarr2",
@@ -1275,7 +1276,7 @@
             "front": {
                 "illustration": "./images/edited_images/gravity - Tim Warnock.jpg",
                 "illustration_pan_x": -607.0,
-                "illustration_pan_y": 13.0,
+                "illustration_pan_y": 10.0,
                 "illustration_scale": 1.144,
                 "illustrator": "Illus. Tim Warnock",
                 "level": "None",
@@ -2460,21 +2461,28 @@
             "amount": 1,
             "project_number": 274,
             "front": {
-                "name": "<font \"./fonts/boneChiller.ttf\"><name>",
+                "name": "<font \"./fonts/boneChiller.ttf\"><name> ",
                 "attack": "?",
+                "collection_total": "<esi> <esn> /<est>",
                 "damage": 0,
                 "evade": "?",
-                "flavor_text": "A combination of many of the children's greatest fears. The Boogeyman fills the virtual dreamlands with sinister laughter.",
+                "flavor_text": "<margin 40>A combination of many of the children's <br>greatest fears. The Boogeyman fills the virtual <br>dreamlands with sinister laughter.",
+                "flavor_text_format": "\n<center><i>{value}</i>",
                 "health": "?",
-                "horror": 2,
-                "illustration": "./images/edited_images/clown - ali9044.jpg",
-                "illustration_pan_x": -113.0,
-                "illustration_pan_y": 774.0,
-                "illustration_rotation": 4.54,
-                "illustration_scale": 2.08,
-                "illustrator": "Illus. ali9044",
+                "horror": "2",
+                "illustration": "./images/edited_images/boogey.png",
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 0.0,
+                "illustrator": "Illus. James Ryman",
+                "image1": "./images/edited_images/boogey_break.png",
+                "image1_region": {
+                    "height": 2244,
+                    "width": 1644,
+                    "y": -19
+                },
                 "level": "None",
-                "subtitle": "<font \"./fonts/Chiller.ttf\"><b>Virtual Nightmare</b>",
+                "name_unique": "<unique>",
+                "subtitle": "<font \"./fonts/Chiller.ttf\"><b>Virtual Nightmare</b> ",
                 "text": "Massive. Hunter.\nCannot be attacked, damaged or evaded.",
                 "title": "<unique><name>",
                 "traits": "Virtual. Monster. Elite.",
@@ -2547,7 +2555,7 @@
                 "illustration_scale": 2.123,
                 "illustrator": "Illus. Mark Fredrickson",
                 "level": "None",
-                "text": "Peril.\n<rev> Test <willpower> or <agility> (4). If you fail, you must decide <i>(choose one)</i>:\n<bullet> Move The Boogeyman to your current location\n<bullet> The Boogeyman attacks you (even if it is not at your location).",
+                "text": "Peril.\n<rev> Test <willpower> or <agility> (4). If you fail, either move The Boogeyman to your current location, or The Boogeyman immediately attacks you. <i>(from any location)</i>",
                 "traits": "Virtual. Nightmare.",
                 "type": "treachery"
             },
@@ -3163,15 +3171,21 @@
             "project_number": 86,
             "front": {
                 "attack": "4",
-                "damage": 1,
+                "damage": "1",
                 "evade": "4",
                 "health": "4",
-                "horror": 1,
+                "horror": "1",
                 "illustration": "./images/edited_images/the_hounds_of_tindalos_by_tomoki17_dcq7jij-fullview.jpg",
-                "illustration_pan_x": 65,
-                "illustration_pan_y": 1036,
-                "illustration_scale": 1.4792,
+                "illustration_pan_y": 1036.0,
+                "illustration_scale": 1.479,
                 "illustrator": "Illus. Tomoki17",
+                "image1": "./images/edited_images/tindalos_break.png",
+                "image1_region": {
+                    "height": 2221,
+                    "width": 1595,
+                    "x": 25,
+                    "y": 10
+                },
                 "level": "None",
                 "text": "Massive. Alert. Retaliate.\n<spawn> Put <name> into play next to the act deck, at no specific location.\nWhile you have an odd number of cards in your hand, Hound of Tindalos is considered to be engaged with you.",
                 "traits": "Creature. Liminal. Elite.",
@@ -3220,9 +3234,9 @@
                 "health": "2",
                 "horror": 0,
                 "illustration": "./images/edited_images/fuji-choko.jpg",
-                "illustration_pan_x": -134.0,
-                "illustration_pan_y": 962.0,
-                "illustration_scale": 1.5789,
+                "illustration_pan_x": -90.0,
+                "illustration_pan_y": 968.0,
+                "illustration_scale": 1.579,
                 "illustrator": "Illus. Fuji Choko",
                 "level": "None",
                 "text": "<spawn> Location with the most clues.\nHunter.\n<for> After <name> attacks you: Draw a face-down encounter card from your threat area.",
@@ -3478,7 +3492,7 @@
             "back": {
                 "name": "In Hiding",
                 "index": "1b",
-                "text": "<blockquote>One of the crew members stumbles out in fear. \"Thank god someone is here to help! I heard your calls but was too scared to answer. There's something else with us on the ship -- It's already taken some of the crew but not all of us. I don't know who to trust!\" \n\nThey describe an abomination that has been corrupting and consuming all biological and electronic mass on the ship. The entity is able to take on the form of the bodies and equipment it consumes, becoming a perfect imitation of the original. When it all went downhill, the Nostalgia II enacted a rudimentary quarantine procedure, and the crew have been hiding throughout the ship, waiting for help ever since.\n\nYou can lead the helpless crew member back to the safety of the Tatterdemalion -- but if it is true that this abomination is able to create perfect imitations, how would you know if they are truly human?</blockquote>\nReveal the Ship Mainframe location.",
+                "text": "<blockquote>One of the crew members stumbles out in fear. \"Thank god someone is here to help! I heard your calls but was too scared to answer. There's something else with us on the ship -- It's already taken some of the crew but not all of us. I don't know who to trust!\" \nThey describe an abomination that has been corrupting and consuming all biological and electronic mass on the ship. The entity is able to take on the form of the bodies and equipment it consumes, becoming a perfect imitation of the original. When it all went downhill, the Nostalgia II enacted a rudimentary quarantine procedure, and the crew have been hiding throughout the ship, waiting for help ever since.\nYou can lead the helpless crew member back to the safety of the Tatterdemalion -- but if it is true that this abomination is able to create perfect imitations, how would you know if they are truly human?</blockquote>\nReveal the Ship Mainframe location.",
                 "type": "act_back"
             },
             "encounter_number": "6",
@@ -3606,7 +3620,7 @@
                 "illustration_pan_y": 677.0,
                 "illustration_scale": 0.8104,
                 "illustrator": "Illus. Francesco Lorenzetti",
-                "text": "Massive. Hunter. Alert.\nThe Entity gets +2<per_large> health for each facedown card attached to it.\nDamage and horror dealt by The Entity must be assigned to <t>Ally</t> assets first, if able.",
+                "text": "Massive. Hunter. Alert.\nThe Entity gets +2<per_large> health for each facedown card attached to it.\nDamage and horror dealt by The Entity must be assigned to <t>Ally</t> assets first.",
                 "title": "<unique><name>",
                 "traits": "Abomination. Elite.",
                 "type": "enemy",
@@ -4852,7 +4866,6 @@
                 "health": "3",
                 "horror": 1,
                 "illustration": "./images/edited_images/migo.jpg",
-                "illustration_pan_x": 72,
                 "illustration_pan_y": 1025,
                 "illustration_scale": 1.25,
                 "text": "Aloof. Patrol (any connecting location).\n<free> Exhaust Mi-Go Scientist: Resolve an <action> ability on Mi-Go Scientist's location, ignoring its '<action>' cost.</i> Investigators at any location may trigger this ability.",
@@ -5838,7 +5851,7 @@
                 "clues": "<dash>",
                 "flavor_text": "A man in an elegant black suit awaits you in the halls behind the stage, his face covered by a pale mask. You instantly recognize the actor who played the role of the Stranger -- one of the characters from The King in Yellow. He turns and disappears through an open doorway, as if taunting you to follow.",
                 "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
-                "illustration_pan_x": -258.0,
+                "illustration_pan_x": -285.0,
                 "illustration_pan_y": -206.0,
                 "illustration_scale": 2.8143,
                 "index": "2a",
@@ -5897,8 +5910,15 @@
                 "illustration_pan_y": 778.0,
                 "illustration_scale": 3,
                 "illustrator": "Illus. Alix Branwyn",
+                "image1": "./images/edited_images/other_break.png",
+                "image1_region": {
+                    "height": 2221,
+                    "width": 1595,
+                    "x": 25,
+                    "y": 10
+                },
                 "level": "None",
-                "text": "Cannot be disengaged (but can be exhausted).\n<name>'s fight, health and evade values are equal to the engaged investigator's base <combat>, health, and <agility> values.\n<for> When you deal damage to <name>, if it is ready: The engaged investigator also takes that amount of damage. You may spend 1 clue to cancel that damage.",
+                "text": "<size 60>Cannot be disengaged (but can be exhausted).\n<name>'s fight, health and evade values are equal to the engaged investigator's base <combat>, health, and <agility> values.\n<for> When you deal damage to <name>, if it is ready: The engaged investigator also takes that amount of damage. You may spend 1 clue to cancel that damage.",
                 "traits": "Virtual. Humanoid. Elite.",
                 "type": "enemy",
                 "victory": "Victory 0."
@@ -5995,7 +6015,7 @@
                 "illustration_scale": 1.3438,
                 "illustrator": "Illus. Young Wolf",
                 "level": "None",
-                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Take 3 horror, then discard this card.\n<action> Choose an investigator at your location to spend 4 resources: Discard this card.",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Discard this card and take 3 damage.\n<action> Choose an investigator at your location to spend 4 resources: Discard this card.",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -6017,7 +6037,7 @@
                 "illustration_scale": 1.3438,
                 "illustrator": "Illus. Young Wolf",
                 "level": "None",
-                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Take 3 horror, then discard this card.\n<act> An investigator of your choice at your location must discard 3 cards from their hand: Discard <name>.",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Discard this card and take 3 damage.\n<act> An investigator of your choice at your location must discard 3 cards from their hand: Discard <name>.",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -7515,19 +7535,28 @@
             "project_number": 233,
             "front": {
                 "attack": "6",
-                "damage": 3,
+                "collection_total": "<esi> <esn> /<est>",
+                "damage": "3",
                 "evade": "3",
-                "flavor_text": "You will receive no such niceties or mercies \nfrom my sire.",
+                "flavor_text": "<size 54><margin 10>You will receive no such niceties or mercies from my sire.",
+                "flavor_text_format": "\n<center><i>{value}</i>",
                 "health": "4<per>",
-                "horror": 3,
-                "illustration": "./images/edited_images/the_king_in_yellow_by_grivetart_d7iuaog-pre.jpg",
-                "illustration_pan_x": -1249.0,
-                "illustration_pan_y": 1071.0,
-                "illustration_scale": 2.546,
+                "horror": "3",
+                "illustration": "./images/edited_images/tassilda.png",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. GrivetArt",
+                "image1": "./images/edited_images/1break_tassilda.png",
+                "image1_region": {
+                    "height": 2244,
+                    "width": 1644,
+                    "x": 0,
+                    "y": 0
+                },
                 "level": "None",
                 "subtitle": "Royal Princess of Carcosa",
-                "text": "Massive. Retaliate.\nTassilda gets +1<investigator> health for each tally mark under \"Impending Doom\" in your Campaign Log.\n<for> After doom is placed on any card: For each doom placed, place 1 horror token on Tassilda's location and each connecting location.",
+                "text": "<image src=\"path<for>\" color=\"red\"><size 58>Massive. Retaliate.\nTassilda gets +1<investigator> health for each tally mark under \"Impending Doom\" in your Campaign Log.\n<for> After doom is placed on any card: For each doom placed, place 1 horror token on Tassilda's location and each connecting location.",
                 "title": "<unique><name>",
                 "traits": "Ancient One. Elite.",
                 "type": "enemy"
@@ -7583,7 +7612,7 @@
                 "health": "2<per>",
                 "horror": 2,
                 "illustration": "./images/edited_images/yithian.jpg",
-                "illustration_pan_x": -9.0,
+                "illustration_pan_x": 10.0,
                 "illustration_pan_y": 951.0,
                 "illustration_scale": 1.259,
                 "illustrator": "Illus. Pasi “Pahapasi” Juhola",
@@ -8594,7 +8623,7 @@
                 "illustration_scale": 5.235,
                 "illustrator": "Illus. Robert Laskey ",
                 "level": "None",
-                "text": "<spawn> Any location without clues on it.\nHunter.\nWhile <name> is moving during the enemy phase, each location without clues is considered to be connected to one another.",
+                "text": "<spawn> Any location without clues on it.\nHunter.\n<name> moves as if all locations without clues on them are connected to each other.",
                 "traits": "Monster. Byakhee.",
                 "type": "enemy"
             },
@@ -8607,7 +8636,7 @@
         {
             "name": "Solar Flare",
             "id": "f3c1d80a-927b-4d0b-aeb5-f6da7c9597d0",
-            "amount": 1,
+            "amount": 3,
             "project_number": 289,
             "front": {
                 "flavor_text": "An eruption of radiation engulfs you, attempting to suck your life force away.",
@@ -8622,13 +8651,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1",
-            "encounter_set": "3fac3933-589a-4fdd-a6d0-f1cc2349f370"
+            "encounter_number": "1-3",
+            "encounter_set": "3fac3933-589a-4fdd-a6d0-f1cc2349f370",
+            "enumerated": "manual"
         },
         {
             "name": "Radiant Crown",
             "id": "493d4738-5727-46d9-8f34-a8413454f8c7",
-            "amount": 1,
+            "amount": 2,
             "project_number": 290,
             "front": {
                 "illustration": "./images/edited_images/Hastur luis-arturo-arzate-velasco.jpg",
@@ -8644,8 +8674,9 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2",
-            "encounter_set": "3fac3933-589a-4fdd-a6d0-f1cc2349f370"
+            "encounter_number": "4-5",
+            "encounter_set": "3fac3933-589a-4fdd-a6d0-f1cc2349f370",
+            "enumerated": "manual"
         },
         {
             "name": "Germanium Detector",
@@ -8687,7 +8718,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "13",
                 "cost": "0",
                 "flavor_text": "",
@@ -8714,7 +8745,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "15",
                 "cost": "2",
                 "flavor_text": "",
@@ -8740,7 +8771,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "14",
                 "cost": "0",
                 "flavor_text": "",
@@ -8766,7 +8797,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "17",
                 "cost": "0",
                 "flavor_text": "",
@@ -8795,7 +8826,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "19",
                 "cost": "2",
                 "flavor_text": "",
@@ -8826,7 +8857,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "18",
                 "cost": "1",
                 "flavor_text": "",
@@ -8852,7 +8883,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "16",
                 "cost": "0",
                 "flavor_text": "",
@@ -8879,7 +8910,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "20",
                 "cost": "0",
                 "flavor_text": "",
@@ -8911,7 +8942,7 @@
                 "classes": [
                     "seeker"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image src=\"./icons/science.png\" color=\"inverted\">",
                 "collection_number": "3",
                 "cost": "2",
                 "flavor_text": "",
@@ -8940,7 +8971,7 @@
                 "classes": [
                     "seeker"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "2",
                 "flavor_text": "",
                 "illustration": "./images/xx/Kate Winthrop/Flux-Stabilizer-Front-Face.jpg",
@@ -8969,7 +9000,7 @@
                 "classes": [
                     "seeker"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "1",
                 "combat": "1",
                 "flavor_text": "\"Everything is simpler than it seems. The connection is there if you look for it.\"",
@@ -9015,8 +9046,8 @@
                 ],
                 "flavor_text": "A quiet and resourceful girl, Kate worked as a research scientist at Miskatonic University. She and a fellow scientist, Professor Young, were pioneers in the field of dimensional science. However, a lab accident opened a portal to another dimension and a creature emerged. That creature then proceeded to tear Professor Young to pieces. Kate lived, but the memories of that day still haunt her which is why she's determined to keep that from ever happening again.",
                 "illustration": "./images/edited_images/Kate Winthrop - Cristi Balanescu.jpg",
-                "illustration_pan_x": -130.0,
-                "illustration_pan_y": 72.0,
+                "illustration_pan_x": -387.0,
+                "illustration_pan_y": -93.0,
                 "illustration_scale": 0.7,
                 "subtitle": "The Scientist",
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options:</b> Seeker cards (<seeker>) level 0-5, cards with \"investigate\" in its text level 0-5, Neutral cards level 0-5, <t>Science</t> cards level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<b>:</b> Flux Stabilizer, Dimensional Study, Dimensional Rift, 1 random basic weakness.",
@@ -9030,7 +9061,7 @@
             "id": "4d23ab1f-efad-4620-ba1c-b4b84acb2fdb",
             "project_number": 304,
             "front": {
-                "collection_icon": "<image src=\"C:/Users/jbalota/Downloads/dm_atom.svg\">",
+                "collection_icon": "<image src=\"./icons/science.png\">",
                 "collection_number": "6",
                 "text": "<blockquote>You come across a pristine hexagonal mirror - an old telescope that was used to observe the edges of the universe as we know it.\n\"The James Webb Space Telescope (JWST) is a space telescope designed primarily to conduct infrared astronomy. As the largest optical telescope in space, its high infrared resolution and sensitivity allow it to view objects too early, distant, or faint for the Hubble Space Telescope. This is expected to enable a broad range of investigations across the fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.\"\n<right>— Maja, Information Archives</blockquote>\n\n<left>If an investigator at your location controls or owns a<t> Science</t> card, attach this card to any location. Otherwise, remove this card from the game.<br>You may treat the text box of the attached location as if they were blank.",
                 "type": "story"
@@ -9056,7 +9087,7 @@
             "id": "c56f776f-2c7b-46ab-a975-cf93fbc288e2",
             "project_number": 307,
             "front": {
-                "collection_icon": "<image src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image src=\"./icons/science.png\">",
                 "collection_number": "9",
                 "text": "<blockquote>A faint beeping noise can be heard from the far reaches of space.\n\"Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program to study the outer Solar System and interstellar space beyond the Sun's heliosphere. Voyager 1 discovered a thin ring around Jupiter and two new Jovian moons: Thebe and Metis. At Saturn, Voyager 1 found five new moons and a new ring called the G-ring. Voyager 1 is the first human-made object to venture into interstellar space, and it is still the most distant human-made object from Earth.\"\n<right>— Maja, Information Archives</blockquote>\n\n<left>Each investigator gains 1 resource for each <t>Science</t> card they control or own.<br>Remove this card from the game.",
                 "type": "story"
@@ -9082,7 +9113,7 @@
             "id": "0d81db58-6592-49c8-95fc-53469c42c8e6",
             "project_number": 305,
             "front": {
-                "collection_icon": "<image src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image src=\"./icons/science.png\">",
                 "collection_number": "7",
                 "text": "<blockquote>You come across a glass cube protecting one of the most valuable relics of the Martian colonies - an old Mars rover.\n\"Curiosity is a car-sized Mars rover designed to explore the Gale crater on Mars as part of NASA's Mars Science Laboratory (MSL) mission. Curiosity was launched from Cape Canaveral (CCAFS) in 2011 and landed on Aeolis Palus inside Gale crater on Mars in 2012. Mission goals include an investigation of the Martian climate and geology, assessment of whether the selected field site inside Gale has ever offered environmental conditions favorable for microbial life (including investigation of the role of water), and planetary habitability studies in preparation for human exploration.\"<br><right>— Maja, Information Archives</blockquote>\n\n<left>Each investigator draws 1 card for each <t>Science</t> card they control or own. (Max 3 cards per investigator)<br>Remove this card from the game.",
                 "type": "story"
@@ -9108,7 +9139,7 @@
             "id": "558b0dff-64c5-4bbd-b9b1-dc0f4f5f95b2",
             "project_number": 306,
             "front": {
-                "collection_icon": "<image src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image src=\"./icons/science.png\">",
                 "collection_number": "8",
                 "text": "<blockquote>The surface of the Earth is now a scattered wasteland of abominations and unspeakable designs. However, your scanning device detects a faint whisper of hope from beneath the rubble.\nThroughout the many years of prosperity that Earth has lived before the arrival of the Ancient Ones, humans have collaborated and constructed several underground laboratories in search for the truths of the universe. What are neutrinos? Can we detect the elusive dark matter? What are the fundamental forces that are holding the universe together?\nTheir collaborations and research have led to the discovery and overall advancement of scientific knowledge - such knowledge that is still being transmitted underneath the horrors above.</blockquote>\n\nEach investigator gains 1 clue from the token bank for each <t>Science</t> card they control or own. (Max 2 clues per investigator)<br>Remove this card from the game.",
                 "type": "story"
@@ -9137,7 +9168,7 @@
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "4",
                 "combat": "2",
                 "damage": 1,
@@ -9165,7 +9196,7 @@
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/science.png\">",
                 "collection_number": "5",
                 "flavor_text": "",
                 "illustration": "./images/edited_images/nele-diel-dreamworld.jpg",
@@ -9188,15 +9219,15 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "12",
                 "cost": "3",
                 "flavor_text": "",
                 "icons": "Q",
                 "illustration": "./images/xx/Purchasable Science Cards/1_Grand_Unified_Theory-1.png",
-                "illustration_pan_x": -156.0,
-                "illustration_pan_y": -25.0,
-                "illustration_scale": 2.441,
+                "illustration_pan_x": -379.0,
+                "illustration_pan_y": -91.0,
+                "illustration_scale": 2.847,
                 "level": "None",
                 "slot": "1 Hand",
                 "slots": [
@@ -9223,7 +9254,7 @@
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/science.png\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/science.png\">",
                 "collection_number": "10",
                 "flavor_text": "The Mi-Go had saved her from the early inhumane scientific experimentation on animals. They hoped humanity would strive to become more kind to all living creatures, and their own planet.",
                 "health": "1",
@@ -9257,7 +9288,7 @@
             "project_number": 318,
             "front": {
                 "clues": "0",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "49",
                 "collection_total": "9/20",
                 "connection": "circle",
@@ -9274,7 +9305,7 @@
                 "type": "location"
             },
             "back": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>Must have been one hell of an intermission.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png",
                 "illustration_pan_x": -20.0,
@@ -9291,7 +9322,7 @@
             "project_number": 315,
             "front": {
                 "clues": "1",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "50",
                 "collection_total": "10/20",
                 "connection": "triangle",
@@ -9310,7 +9341,7 @@
                 "type": "location"
             },
             "back": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>Through the tall glass doors leading into the lobby, you can see that this room isn’t nearly as dilapidated as the auditorium. Signs promoting The King in Yellow taunt you from inside.",
                 "illustrator": "Illus. Mark Molnar",
                 "type": "fullart_location_back"
@@ -9324,7 +9355,7 @@
             "project_number": 310,
             "front": {
                 "clues": "1<per>",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "51",
                 "collection_total": "11/20",
                 "connection": "square",
@@ -9343,7 +9374,7 @@
                 "victory": "Victory 1."
             },
             "back": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>A carpeted staircase leads up into the balcony. Somehow, a hot draft is blowing down through the steep passageway.",
                 "illustrator": "Illus. Mark Molnar",
                 "type": "fullart_location_back"
@@ -9357,7 +9388,7 @@
             "project_number": 309,
             "front": {
                 "clues": "1",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./images/Carcosa.svg\">",
                 "collection_number": "52",
                 "collection_total": "12/20",
                 "connection": "diamond",
@@ -9375,7 +9406,7 @@
                 "type": "location"
             },
             "back": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>The set is different from what you remember of the play’s first act, decorated with a backdrop of an unsettling sunset.",
                 "illustration_pan_y": -47.0,
                 "illustration_scale": 2.06,
@@ -9391,7 +9422,7 @@
             "project_number": 314,
             "front": {
                 "clues": "1<per>",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "53",
                 "collection_total": "13/20",
                 "connection": "cross",
@@ -9411,7 +9442,7 @@
             },
             "back": {
                 "name": "Lobby Doorway",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>An ornate wooden door leads into one of the front areas of the theatre.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
                 "illustration_pan_x": 13.0,
@@ -9428,7 +9459,7 @@
             "project_number": 311,
             "front": {
                 "clues": "0",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "54",
                 "collection_total": "14/20",
                 "connection": "cross",
@@ -9447,7 +9478,7 @@
             },
             "back": {
                 "name": "Lobby Doorway",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>An ornate wooden door leads into one of the front areas of the theatre.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
                 "illustration_pan_x": 13.0,
@@ -9464,7 +9495,7 @@
             "project_number": 313,
             "front": {
                 "clues": "1<per>",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "55",
                 "collection_total": "15/20",
                 "connection": "cross",
@@ -9484,7 +9515,7 @@
             },
             "back": {
                 "name": "Lobby Doorway",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>An ornate wooden door leads into one of the front areas of the theatre.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
                 "illustrator": "Illus. Yoann Boissonnet",
@@ -9499,7 +9530,7 @@
             "project_number": 312,
             "front": {
                 "clues": "0",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "56",
                 "collection_total": "16/20",
                 "connection": "crescent",
@@ -9518,7 +9549,7 @@
             },
             "back": {
                 "name": "Backstage Doorway",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>A simple wooden door leads into the back of the theatre, far from the prying eyes of patrons.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
                 "illustration_pan_x": 13.0,
@@ -9535,7 +9566,7 @@
             "project_number": 316,
             "front": {
                 "clues": "1<per>",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "57",
                 "collection_total": "17/20",
                 "connection": "crescent",
@@ -9555,7 +9586,7 @@
             },
             "back": {
                 "name": "Backstage Doorway",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>A simple wooden door leads into the back of the theatre, far from the prying eyes of patrons.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
                 "illustration_pan_x": 13.0,
@@ -9572,7 +9603,7 @@
             "project_number": 319,
             "front": {
                 "clues": "1<per>",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "58",
                 "collection_total": "18/20",
                 "connection": "crescent",
@@ -9592,7 +9623,7 @@
             },
             "back": {
                 "name": "Backstage Doorway",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "flavor_text": "<valign>A simple wooden door leads into the back of the theatre, far from the prying eyes of patrons.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
                 "illustration_pan_x": 13.0,
@@ -9610,7 +9641,7 @@
             "amount": 1,
             "project_number": 322,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "84",
                 "illustration": "./images//Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_4.png",
                 "illustration_pan_y": -100.0,
@@ -9633,7 +9664,7 @@
             "amount": 1,
             "project_number": 324,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "84",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_5.png",
                 "illustration_pan_y": -100.0,
@@ -9656,7 +9687,7 @@
             "amount": 1,
             "project_number": 321,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "84",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_6.png",
                 "illustration_pan_y": -100.0,
@@ -9679,7 +9710,7 @@
             "amount": 1,
             "project_number": 323,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "84",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_7.png",
                 "illustration_pan_y": -100.0,
@@ -9702,7 +9733,7 @@
             "amount": 2,
             "project_number": 320,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "85",
                 "flavor_text": "She froze, and her throat clenched. Her eyes began to water. Her vision spiraled and blurred. Then, at long last, she finally understood.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_9.png",
@@ -9728,7 +9759,7 @@
             "project_number": 325,
             "front": {
                 "attack": "1",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/core.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "collection_number": "159",
                 "damage": "1",
                 "evade": "1",
@@ -9754,7 +9785,7 @@
             "amount": 1,
             "project_number": 328,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/return_to_the_path_to_carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/return_to_the_path_to_carcosa.svg\">",
                 "collection_number": "72",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_11.png",
                 "illustration_pan_y": -120.0,
@@ -9777,7 +9808,7 @@
             "amount": 1,
             "project_number": 330,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/return_to_the_path_to_carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/return_to_the_path_to_carcosa.svg\">",
                 "collection_number": "71",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_10.png",
                 "illustration_pan_y": -120.0,
@@ -9800,7 +9831,7 @@
             "amount": 1,
             "project_number": 327,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/return_to_the_path_to_carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/return_to_the_path_to_carcosa.svg\">",
                 "collection_number": "73",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_12.png",
                 "illustration_pan_x": 0.0,
@@ -9814,7 +9845,7 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4",
+            "encounter_number": "3",
             "encounter_set": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
             "enumerated": "manual"
         },
@@ -9824,7 +9855,7 @@
             "amount": 1,
             "project_number": 329,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/return_to_the_path_to_carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/return_to_the_path_to_carcosa.svg\">",
                 "collection_number": "74",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_13.png",
                 "illustration_pan_y": -120.0,
@@ -9847,7 +9878,7 @@
             "amount": 2,
             "project_number": 326,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/return_to_the_path_to_carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/return_to_the_path_to_carcosa.svg\">",
                 "collection_number": "75",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_14.png",
                 "illustration_pan_y": -150.0,
@@ -9870,14 +9901,14 @@
             "project_number": 331,
             "front": {
                 "attack": "3",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "88",
                 "damage": "2",
                 "evade": "5",
                 "health": "7",
                 "horror": "1",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_1.png",
-                "illustration_pan_x": -179.0,
+                "illustration_pan_x": -15.0,
                 "illustration_pan_y": 194.0,
                 "illustration_scale": 2.16,
                 "illustrator": "Illus.  Chun Lo",
@@ -9899,7 +9930,7 @@
             "project_number": 332,
             "front": {
                 "attack": "4",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "89",
                 "damage": "1",
                 "evade": "2",
@@ -9926,7 +9957,7 @@
             "project_number": 334,
             "front": {
                 "attack": "4",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/core.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "collection_number": "177",
                 "damage": "1",
                 "evade": "3",
@@ -9954,7 +9985,7 @@
             "amount": 2,
             "project_number": 333,
             "front": {
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/core.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "collection_number": "178",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_all_german_export_v11_flavor_dark_matter_1.png",
                 "illustrator": "Illus. Stephen Somers",
@@ -9977,14 +10008,13 @@
             "front": {
                 "name": "<unique><name>",
                 "attack": "4",
-                "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/Carcosa.svg\">",
                 "collection_number": "60",
                 "collection_total": "20/20",
                 "damage": "2",
                 "evade": "2",
                 "health": "4",
                 "illustration": "./images/Replacements Carcosa and Core/ahc11-060 Royal Emissary - Sam Lamont.jpg",
-                "illustration_pan_x": 39.0,
                 "illustration_pan_y": 1042.0,
                 "illustration_scale": 0.7,
                 "illustrator": "Illus. Sam Lamont",
@@ -9999,6 +10029,21 @@
             },
             "encounter_number": "9",
             "encounter_set": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f"
+        },
+        {
+            "name": "Prologue",
+            "id": "46f6e564-d315-4fea-ad68-a6601f6c33f6",
+            "amount": 0,
+            "project_number": "0",
+            "front": {
+                "type": "chaos"
+            },
+            "back": {
+                "type": "chaos"
+            },
+            "encounter_number": "0",
+            "encounter_set": "6829efb8-f09f-4c94-b0f5-8069d767be9a",
+            "enumerated": "manual"
         }
     ],
     "encounter_sets": [
@@ -10129,7 +10174,7 @@
         {
             "name": "Lost Quantum",
             "id": "2dcdaef3-3ea1-4296-a0f7-456134e5df0d",
-            "icon": "./images/Lost Quantum.png",
+            "icon": "./icons/Lost Quantum.png",
             "meta": {
                 "tts": {}
             },
@@ -10360,7 +10405,7 @@
         {
             "name": "Future Technology",
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
-            "icon": "./images/Flask.png",
+            "icon": "./icons/Flask.png",
             "meta": {
                 "location_active_layout": "58bf37d1-24d6-452c-a983-3632defe2c03",
                 "location_layouts": [
@@ -10383,7 +10428,7 @@
         {
             "name": "Discoveries in Space",
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
-            "icon": "./images/atom_001.jpg",
+            "icon": "./icons/flask.png",
             "meta": {
                 "location_graph": {
                     "0d81db58-6592-49c8-95fc-53469c42c8e6_front": {
@@ -10555,6 +10600,15 @@
             "cards": [],
             "card_amount": 4,
             "order": 24
+        },
+        {
+            "name": "Prologue",
+            "id": "6829efb8-f09f-4c94-b0f5-8069d767be9a",
+            "icon": "",
+            "meta": {
+                "tts": {}
+            },
+            "cards": []
         }
     ],
     "guides": [
